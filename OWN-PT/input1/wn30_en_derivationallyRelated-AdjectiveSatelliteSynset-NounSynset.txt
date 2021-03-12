@@ -1,5 +1,0 @@
-motor	motor
-gay	gay
-coral	coral
-perpendicular	perpendicular
-diagonal	diagonal

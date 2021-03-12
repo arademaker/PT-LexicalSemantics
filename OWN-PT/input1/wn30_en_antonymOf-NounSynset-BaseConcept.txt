@@ -1,2 +1,0 @@
-software	hardware
-fauna	flora

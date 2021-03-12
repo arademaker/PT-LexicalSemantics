@@ -1,3 +1,0 @@
-face	facial
-pastor	pastoral
-flora	floral

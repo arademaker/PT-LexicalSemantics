@@ -1,7 +1,0 @@
-natural	artificial
-formal	informal
-inferior	superior
-informal	formal
-filial	parental
-vertical	horizontal
-horizontal	vertical

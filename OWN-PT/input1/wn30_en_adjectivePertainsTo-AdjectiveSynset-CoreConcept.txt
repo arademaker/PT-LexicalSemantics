@@ -1,3 +1,0 @@
-mineral	mineral
-pastoral	pastor
-floral	flora

@@ -28,3 +28,13 @@ ar@leme results % for f in *.json ; do jq '.[] | .details | .[] | .predictions |
     1207
 ar@leme results % for f in *.json ; do jq '.[] | .details | .[] | .predictions | map(select(.hit)) | .[] | .answer' $f ; done | wc -l
     2820
+
+
+* notas
+
+1. a lib vecto é fixa em como analisa cada arquivo. 
+
+2. podemos cortar arquivo embeddings ao ler no vecto 
+
+
+

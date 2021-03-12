@@ -1,4 +1,0 @@
-menos	comparativo
-melhor	comparativo/comparativo
-pior	comparativo
-confortável	coloquialismo
