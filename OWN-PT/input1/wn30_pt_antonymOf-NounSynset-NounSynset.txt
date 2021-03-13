@@ -19,7 +19,7 @@ consistência	inconsistência
 convergência	divergência
 cortesia	descortesia
 decisão	indecisão
-deflação	inflação/inflação
+deflação	inflação
 depressão	euforia
 desaceleração	aceleração
 descortesia	cortesia
@@ -28,7 +28,7 @@ desequilíbrio	equilíbrio
 desigualdade	igualdade
 deslealdade	lealdade
 desmobilização	mobilização
-desobediência	conformidade/obediência/obediência
+desobediência	conformidade/obediência
 dissonância	harmonia
 divergência	convergência
 eficiência	ineficiência
@@ -65,7 +65,7 @@ indecisão	decisão
 indiferença	afeição
 ineficiência	eficiência
 inexperiência	experiência
-inflação	deflação/deflação
+inflação	deflação
 inflexibilidade	flexibilidade
 ingratidão	gratidão
 insensibilidade	sensibilidade
@@ -100,7 +100,7 @@ nacionalismo	internacionalismo
 nacionalização	privatização
 nascimento	morte
 normalidade	anormalidade
-obediência	desobediência/desobediência
+obediência	desobediência
 opacidade	transparência
 otimismo	pessimismo
 particularidade	generalidade
@@ -137,4 +137,3 @@ velhice	juventude
 veracidade	falsidade
 visibilidade	invisibilidade
 voluntário	recruta
-

@@ -6,15 +6,15 @@ dorsal	ventral
 equatorial	polar
 extramural	intramural
 extraterritorial	territorial
-filial	parental/parental
-formal	informal/informal
+filial	parental
+formal	informal
 horizontal	vertical
 inferior	superior
-informal	formal/formal
+informal	formal
 instrumental	vocal
 intramural	extramural
 ipsilateral	contralateral
-irregular	regular/regular
+irregular	regular
 legato	staccato
 maternal	paternal
 multidimensional	unidimensional
@@ -22,10 +22,10 @@ natural	artificial
 off-line	on-line
 on-line	off-line
 ordinal	cardinal
-parental	filial/filial
+parental	filial
 paternal	maternal
 polar	equatorial
-regular	irregular/irregular
+regular	irregular
 staccato	legato
 superior	inferior
 territorial	extraterritorial
@@ -34,4 +34,3 @@ unidimensional	multidimensional
 ventral	dorsal
 vertical	horizontal
 vocal	instrumental
-

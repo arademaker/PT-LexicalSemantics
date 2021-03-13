@@ -2,8 +2,8 @@ abreviar	abreviação/abreviatura
 cheirar	cheiro
 compor	composição
 consolar	consolo
-copiar	cópia/cópia
-criar	criação/criação
+copiar	cópia
+criar	criação
 decidir	decisão
 definir	definição
 descobrir	descoberta
@@ -16,21 +16,20 @@ falsificar	falsificação
 filmar	filme
 instalar	instalação
 instruir	instrução
-julgar	julgamento/julgamento
+julgar	julgamento
 morder	mordedura/mordida
-mudar	mudança/mudança
-organizar	organização/organização/organização/organização
+mudar	mudança
+organizar	organização
 perfurar	perfuração
 picar	picada
 planejar	plano
 presumir	presunção
-publicar	publicação/publicação
+publicar	publicação
 questionar	questão
 refinar	refinamento
 resgatar	resgate
 resolver	resolução
 responder	resposta
 resumir	resumo
-somar	soma/soma
+somar	soma
 variar	variante
-

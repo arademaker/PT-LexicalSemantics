@@ -17,7 +17,7 @@ baixar	descer/cair
 cerrar	fechar
 coagir	agir/atuar/fazer
 comover	sentir/experimentar
-compelir	agir/agir/atuar/atuar/fazer/fazer
+compelir	agir/atuar/fazer
 completar	encher
 conduzir	agir/atuar/fazer
 dar	ter
@@ -39,7 +39,7 @@ entregar	ter
 enxugar	secar
 erguer	ascender/levantar/subir
 evaziar	esvaziar
-forçar	agir/agir/atuar/atuar/fazer/fazer
+forçar	agir/atuar/fazer
 gelar	congelar
 impressionar	sentir/experimentar
 intoxicar	regozijar/regozijar-se/alegrar-se/alegrar
@@ -52,7 +52,7 @@ modificar	alterar/mudar
 mostrar	enxergar/olhar/ver
 mover	deslocar/mexer
 mudar	alterar
-obrigar	agir/agir/atuar/atuar/fazer/fazer
+obrigar	agir/atuar/fazer
 ocasionar	ocorrer/suceder/acontecer/passar
 parecer	sentir/experimentar
 partir	dividir/separar
@@ -67,9 +67,8 @@ sentar-se	sentar
 separar	partir/dividir
 soar	ressoar/fazer
 submergir	naufragar/afundar
-unir	grudar/juntar/juntar
+unir	grudar/juntar
 verter	manar/fluir/correr
 viajar	caminhar/ir/andar
 virar	derrubar
 zangar	enraivecer
-

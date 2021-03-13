@@ -35,21 +35,21 @@ embarcação	desvio
 empresa	chinês/cine/cinema/cadeia
 escaler	passageiro
 esporte	juiz/passear/árbitro/patinar/caminhar
-exército	armada/assédio/bombardeiro/cerco/conscrição/marinha/prontidão/tanques/alistamento/general/baixa/rapidez/campanha/espião/sítio/capitão/inimigo/tanque/manobra/marcha/preparação/combate/combate/operação/batalha/batalha/ataque/luta
+exército	armada/assédio/bombardeiro/cerco/conscrição/marinha/prontidão/tanques/alistamento/general/baixa/rapidez/campanha/espião/sítio/capitão/inimigo/tanque/manobra/marcha/preparação/combate/operação/batalha/ataque/luta
 flora	vegetação/domar/domesticar/naturalizar/cultivar
 fé	submundo/inferno
 física	gravitação/isotropia/molécula/reactor/reactores/átomo/gravidade
 humano	corpo
 industria	chinês/cine/cinema/cadeia
 jogo	jogada
-jurisprudência	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/processo/processo/proprietário/registro/condenar/julgamento/julgamento/testemunha/ato/licença/casamento/causa/causa/direito/título/maior/provar/mostrar/prender
-lei	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/processo/processo/proprietário/registro/condenar/julgamento/julgamento/testemunha/ato/licença/casamento/causa/causa/direito/título/maior/provar/mostrar/prender
+jurisprudência	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/proprietário/registro/condenar/julgamento/testemunha/ato/licença/casamento/causa/direito/título/maior/provar/mostrar/prender
+lei	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/proprietário/registro/condenar/julgamento/testemunha/ato/licença/casamento/causa/direito/título/maior/provar/mostrar/prender
 linguística	gramática
-lingüística	gramática/gramática
+lingüística	gramática
 matematica	equaçao/equações/matrizes/equação/demonstração/evidência/matriz/fórmula/prova/função/regra
 matemática	equaçao/equações/matrizes/equação/demonstração/evidência/matriz/fórmula/prova/função/regra
 mercantilismo	comercializar/empenhar/exportar/importar/comprar/vender/obter/adquirir/atingir
-música	musico/músico/músico/tema/cantar/compor/escrever/rápido/tocar
+música	musico/músico/tema/cantar/compor/escrever/rápido/tocar
 narcótico	dependência
 navio	desvio
 navios	desvio
@@ -73,4 +73,3 @@ vertebrado	sangue/costela/sangue
 veículo	tracção/túnel/tração/passageiro
 viatura	tracção/túnel/tração/passageiro
 xadrez	xeque/rei/cavalo
-

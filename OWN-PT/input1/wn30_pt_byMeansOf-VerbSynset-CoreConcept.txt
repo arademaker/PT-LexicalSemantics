@@ -2,12 +2,12 @@ adicionar	adição
 ameaçar	ameaça
 anunciar	anúncio
 aquecer	aquecimento
-aumentar	aumento/aumento
+aumentar	aumento
 aventurar	aventura
-beneficiar	benefício/benefício
-citar	citação/citação
-confirmar	confirmação/confirmação
-decorar	decoração/decoração
+beneficiar	benefício
+citar	citação
+confirmar	confirmação
+decorar	decoração
 decretar	decreto
 delimitar	delimitação
 documentar	documentação/documento
@@ -26,7 +26,7 @@ injuriar	injúria
 insultar	insulto
 justificar	justificativa/justificação
 ligar	ligação
-limitar	limitação/limitação
+limitar	limitação
 manobrar	manobra
 manter	manutenção
 medicar	medicamento
@@ -38,16 +38,15 @@ ornar	ornamento
 praticar	prática
 preocupar	preocupação
 preparar	preparação
-proibir	proibição/proibição/proibição
+proibir	proibição
 proteger	protecção
 recomendar	recomendação
 renunciar	renúncia
 responder	resposta
-restringir	restrição/restrição
+restringir	restrição
 rever	revisão
 saudar	saudação
 significar	significação/significado
 supor	suposição
 ver	visão
 verificar	verificação
-

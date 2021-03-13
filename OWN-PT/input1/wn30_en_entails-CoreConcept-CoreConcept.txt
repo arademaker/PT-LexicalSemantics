@@ -66,4 +66,3 @@ tropeçar	caminhar/ir/andar
 ultrapassar	vencer/ganhar
 vencer	competir/concorrer/ganhar
 ver	aperceber/aperceber-se/perceber/entender
-

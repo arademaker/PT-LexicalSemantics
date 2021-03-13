@@ -42,7 +42,7 @@ inocentar	balizar/avaliar/julgar
 instigar	animar/excitar/provocar
 levantar	levantar-se
 levantar-se	capotar/sonecar/dormir/dormitar/cochilar
-levar	vir/vir
+levar	vir
 levitar	ascender/subir
 lustrar	esfregar
 lutar	competir/concorrer
@@ -65,11 +65,10 @@ solucionar	raciocinar
 tampar	inserir/introduzir
 tirar	vir
 transportar	vir
-trazer	vir/vir
+trazer	vir
 tropeçar	caminhar/ir/andar
 usar	vestir-se/arrumar-se/vestir
 vencer	competir/concorrer
 vender	entregar/dar
 ver	aperceber/aperceber-se/perceber/entender
 vestir	vestir-se/arrumar-se
-

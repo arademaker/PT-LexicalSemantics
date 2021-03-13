@@ -3,7 +3,7 @@ absorção	quimica/química
 acta	jurisprudência/lei
 actuar	dramaturgia/teatro
 acusado	jurisprudência/lei
-adoção	jurisprudência/jurisprudência/lei/lei
+adoção	jurisprudência/lei
 adquirir	comercialismo/mercantilismo/comércio
 advogado	jurisprudência/lei
 advogar	jurisprudência/lei
@@ -23,7 +23,7 @@ ato	jurisprudência/lei
 atuar	dramaturgia/teatro
 baixa	exército
 bancarrota	jurisprudência/lei
-batalha	exército/exército
+batalha	exército
 bater	culinária/cozinha/preparação
 bombardeiro	exército
 cadeia	industria/empresa/negócio/comércio
@@ -35,7 +35,7 @@ cantar	música
 capitão	exército
 casal	jurisprudência/lei
 casamento	jurisprudência/lei
-causa	jurisprudência/jurisprudência/lei/lei
+causa	jurisprudência/lei
 cavalo	xadrez
 cepa	biologia
 cerco	exército
@@ -43,7 +43,7 @@ chinês	industria/empresa/negócio/arte/comércio
 cine	industria/empresa/negócio/arte/comércio
 cinema	industria/empresa/negócio/arte/comércio
 coima	jurisprudência/lei
-combate	exército/exército
+combate	exército
 comercializar	comercialismo/mercantilismo/comércio
 compor	música
 comprar	comercialismo/mercantilismo/comércio
@@ -86,12 +86,12 @@ equações	matematica/matemática
 erigir	edificação/construção
 escrever	música
 espião	exército
-espécie	biologia/biologia
+espécie	biologia
 espécies	biologia
 estirpe	biologia
 evidenciar	jurisprudência/lei
 evidência	matematica/matemática
-evolução	biologia/biologia
+evolução	biologia
 exportar	comercialismo/mercantilismo/comércio
 exposição	arte
 exposições	arte
@@ -124,7 +124,7 @@ isotropia	física
 jogada	jogo
 judiciário	jurisprudência/lei
 juiz	esporte
-julgamento	jurisprudência/jurisprudência/lei/lei
+julgamento	jurisprudência/lei
 jurisdição	jurisprudência/lei
 jurista	jurisprudência/lei
 juízo	jurisprudência/lei
@@ -151,7 +151,7 @@ mostrar	jurisprudência/lei
 multa	jurisprudência/lei
 murro	boxe/pugilismo
 musico	música
-músico	música/música
+músico	música
 naturalizar	flora/planta/vegetal
 obter	comercialismo/mercantilismo/comércio
 ontogenia	biologia
@@ -174,7 +174,7 @@ pleito	jurisprudência/lei
 pregação	serviço
 prender	jurisprudência/lei
 preparação	exército
-processo	jurisprudência/jurisprudência/jurisprudência/lei/lei/lei
+processo	jurisprudência/lei
 produzir	agricultura/pecuária/cultivo
 prontidão	exército
 proprietário	jurisprudência/lei
@@ -197,7 +197,7 @@ rápido	música
 réu	jurisprudência/lei
 sacrificio	criatura/animal/besta/bicho/ser
 sacrifício	criatura/animal/besta/bicho/ser
-sangue	vertebrado/vertebrado
+sangue	vertebrado
 semear	agricultura/pecuária/cultivo
 sentença	jurisprudência/lei
 sequestrar	crime/ofensa
@@ -233,4 +233,3 @@ voto	jurisprudência/lei
 xeque	xadrez
 árbitro	esporte
 átomo	quimica/física/química
-

@@ -14,7 +14,7 @@ atingir	comercialismo/mercantilismo/comércio
 ato	jurisprudência/lei
 avionar	aeronave/aeroplano/avião
 baixar	música
-batalha	exército/exército
+batalha	exército
 belas-artes	arte
 cadeia	quimica/química
 cadeira	dramaturgia/aeroplano/avião/teatro
@@ -31,7 +31,7 @@ casamento	jurisprudência/lei
 chutar	esporte
 classe	biologia
 colisão	física
-combate	exército/exército
+combate	exército
 comensalismo	flora/planta/vegetal
 comerciar	comercialismo/mercantilismo/comércio
 companhia	exército
@@ -71,7 +71,7 @@ encargo	colectas/impostos/imposto/taxação/taxa/tributo
 energia	física
 enlatar	culinária/cozinha/preparação
 espião	exército
-espécie	biologia/biologia
+espécie	biologia
 espécies	biologia
 esquiar	esporte
 estabelecimento	industria/empresa/negócio/comércio
@@ -83,7 +83,7 @@ família	biologia
 fazer	agricultura/pecuária/cultivo
 ferver	culinária/cozinha/preparação
 filmar	película/cinema/filme/produção
-filo	biologia/biologia
+filo	biologia
 flora	planta/vegetal
 fornecedor	narcótico
 força	física
@@ -106,7 +106,7 @@ indústria	manufatura
 jogo	esporte
 julgamento	jurisprudência/lei
 jurista	jurisprudência/lei
-legislação	jurisprudência/jurisprudência/lei/lei
+legislação	jurisprudência/lei
 lei	jurisprudência
 leis	jurisprudência/lei
 limpar	quimica/química
@@ -117,7 +117,7 @@ luta	exército
 luz	física
 língua	linguagem/música/arte/discurso/idioma
 magnete	física
-manobra	exército/exército
+manobra	exército
 matematica	ciência
 matemática	ciência
 matrimónio	jurisprudência/lei
@@ -133,7 +133,7 @@ musico	música
 mutante	biologia
 mutantes	biologia
 mutação	biologia
-músico	música/música
+músico	música
 negócio	industria/empresa/comércio
 obter	comercialismo/mercantilismo/comércio
 oficial	exército
@@ -150,9 +150,9 @@ passear	esporte
 perseguição	religião/fé
 pilotar	aeronave/aeroplano/avião
 pincelar	arte
-pintar	arte/arte
+pintar	arte
 plano	matematica/matemática
-plantar	agricultura/agricultura/pecuária/pecuária/cultivo/cultivo
+plantar	agricultura/pecuária/cultivo
 plasmar	arte
 procriar	biologia
 produzir	agricultura/pecuária/cultivo
@@ -168,7 +168,7 @@ reproduzir	biologia
 revogação	jurisprudência/lei
 rodada	jogo
 sagacidade	industria/empresa/negócio/comércio
-sangue	vertebrado/vertebrado
+sangue	vertebrado
 semear	agricultura/pecuária/cultivo
 sentença	jurisprudência/lei
 sequestrar	crime/ofensa
@@ -202,4 +202,3 @@ voar	aeronave/aeroplano/avião
 átomo	quimica/física/química
 íman	física
 ímã	física
-

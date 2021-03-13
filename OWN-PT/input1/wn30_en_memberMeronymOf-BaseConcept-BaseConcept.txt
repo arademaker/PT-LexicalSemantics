@@ -6,11 +6,11 @@ casal	cónjuge/consorte/cônjuge/esposa/esposo/marido/companheiro
 casamento	cónjuge/consorte/cônjuge/esposa/esposo/marido/companheiro
 cavalo	potro
 clã	parente
-corte	júri/júri
+corte	júri
 cosmo	galáxia/nebulosa
 criação	galáxia/nebulosa
 empresa	departamento/divisão
-exército	militar/corpo/corpo
+exército	militar/corpo
 familia	parente
 família	genitor/parente/progenitor/pai/criança/filho/mãe/menino
 floresta	árvore
@@ -19,7 +19,7 @@ gente	alguém/cidadã/cidadão/indivíduo/alma/pessoa/súdito/audiência/cidadã
 homem	população/gente/pessoal/povo
 homens	time/equipe/partida
 humanidade	população/gente/pessoal/povo
-juizado	júri/júri
+juizado	júri
 lei	policial/polícia/agente/guarda
 mata	árvore
 mundo	galáxia/nebulosa/população/gente/pessoal/povo/audiência/espectador
@@ -36,8 +36,7 @@ povo	alguém/cidadã/cidadão/indivíduo/alma/população/gente/pessoa/pessoal/s
 sociedade	associado
 terra	província/estado
 tribo	parente
-tribunal	júri/júri
+tribunal	júri
 universo	galáxia/nebulosa
 união	associado
 égua	potro
-

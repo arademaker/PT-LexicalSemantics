@@ -36,7 +36,7 @@ eleição	contagem/maioria
 empresa	chinês/cine/cinema/cadeia
 escaler	passageiro
 esporte	juiz/passear/árbitro/patinar/caminhar
-estatística	média/média/norma/norma
+estatística	média/norma
 estatísticas	média/norma
 filosofia	filósofo
 flora	vegetação/domar/domesticar/naturalizar/cultivar
@@ -44,21 +44,20 @@ fotografia	aumentar
 fé	submundo/inferno
 física	gravitação/isotropia/molécula/reactor/reactores/átomo/gravidade
 hasta	oferecer
-história	crónica/crónica/crônica/crônica/historiador/historiador/historiografo/historiografo/cronista/cronista
+história	crónica/crônica/historiador/historiografo/cronista
 humano	corpo
-incisão	amputar/sanar/narcotizar/sarar/dopar/drogar/curar
 industria	chinês/cine/cinema/cadeia
-informática	hardware/software/calculadora/impressora/iteração/computador/menu/código/trilha/repetição/programa/programa
+informática	hardware/software/calculadora/impressora/iteração/computador/menu/código/trilha/repetição/programa
 jogo	jogada
-jurisprudência	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/processo/processo/proprietário/registro/condenar/julgamento/julgamento/testemunha/ato/licença/casamento/causa/causa/direito/título/maior/provar/mostrar/prender
-lei	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/processo/processo/proprietário/registro/condenar/julgamento/julgamento/testemunha/ato/licença/casamento/causa/causa/direito/título/maior/provar/mostrar/prender
+jurisprudência	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/proprietário/registro/condenar/julgamento/testemunha/ato/licença/casamento/causa/direito/título/maior/provar/mostrar/prender
+lei	acta/adoção/argüido/conúbio/decreto/divorcio/divórcio/emprisonar/encarcerar/engaiolar/incarcerar/licenciamentos/litígio/matrimónio/matrimônio/passaportes/pleitear/pleito/querelante/sufrágio/testamento/testificar/veredicto/veredito/acusado/anistia/bancarrota/coima/curador/falência/fiança/legislação/mandado/réu/adoção/advogar/atestar/casal/constituição/dono/evidenciar/jurisdição/jurista/juízo/multa/passaporte/sentença/aprisionar/contrato/suspeito/testemunhar/voto/advogado/judiciário/perdão/processo/proprietário/registro/condenar/julgamento/testemunha/ato/licença/casamento/causa/direito/título/maior/provar/mostrar/prender
 leilão	oferecer
 locomotivas	passageiro
 matematica	equaçao/equações/matrizes/equação/demonstração/evidência/matriz/fórmula/prova/função/regra
 matemática	equaçao/equações/matrizes/equação/demonstração/evidência/matriz/fórmula/prova/função/regra
-medicina	amputar/amputar/sanar/sanar/narcotizar/narcotizar/sarar/sarar/dopar/dopar/drogar/drogar/curar/curar
+medicina	amputar/sanar/narcotizar/sarar/dopar/drogar/curar
 mercantilismo	comercializar/empenhar/exportar/importar/comprar/vender/obter/adquirir/atingir
-música	musico/músico/músico/tema/compor/escrever/rápido/tocar
+música	musico/músico/tema/compor/escrever/rápido/tocar
 negócio	chinês/cine/cinema/cadeia
 ofensa	plagiar/remir/abduzir/raptar/seqüestrar/sequestrar/resgatar
 pecuária	semear/plantar/produzir/fazer
@@ -67,7 +66,6 @@ psicologia	molecular/stress/fadiga/inibição/costume/hábito/tensão
 quimica	molécula/absorção/átomo
 química	molécula/absorção/átomo
 religião	submundo/inferno
-remédio	amputar/sanar/narcotizar/sarar/dopar/drogar/curar
 rio	curva/canal
 ser	arapuca/sacrificio/armadilha/pastar/sacrifício/gregário/corpo/rede
 show	ensaio
@@ -77,4 +75,3 @@ vegetal	flora/vegetação/domar/domesticar/naturalizar/cultivar
 veículo	tracção/túnel/tração/passageiro
 viatura	tracção/túnel/tração/passageiro
 ônibus	passageiro
-

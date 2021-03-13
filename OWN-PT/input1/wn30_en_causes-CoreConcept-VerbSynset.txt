@@ -1,12 +1,12 @@
 acender	carburar/queimar
-agradar	gostar/gostar
+agradar	gostar
 alastrar	circular/espalhar
 alimentar	papar/comer
 alterar	mudar
 alçar	ascender/subir
 amedrontar	recear/apavorar/temer
 aperfeiçoar	melhorar
-aprazer	gostar/gostar
+aprazer	gostar
 assustar	recear/apavorar/temer
 atemorizar	recear/apavorar/temer
 aterrorizar	recear/apavorar/temer
@@ -17,14 +17,14 @@ colocar	jazer
 começar	principiar/iniciar
 compelir	agir/atuar/fazer
 completar	encher
-comprazer	gostar/gostar
+comprazer	gostar
 deitar	jazer
 derramar	manar/fluir/correr
 difundir	circular/espalhar
 disseminar	circular/espalhar
 elevar	ascender/subir
-embevecer	gostar/gostar
-encantar	gostar/gostar
+embevecer	gostar
+encantar	gostar
 ensinar	aprender/adquirir
 entornar	manar/fluir/correr
 erguer	ascender/subir
@@ -53,9 +53,8 @@ pôr	jazer
 queimar	carburar
 ressuscitar	reviver/acordar
 reviver	ressuscitar/acordar
-satisfazer	gostar/gostar
+satisfazer	gostar
 transmitir	circular/espalhar
 treinar	malhar/exercitar
 verter	manar/fluir/correr
 virar	derrubar
-

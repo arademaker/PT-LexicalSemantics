@@ -90,11 +90,10 @@ recordar	recordar-se/lembrar-se/lembrar
 relaxar	descontrair
 reunir	encontrar
 satisfazer	gostar
-sentar	sentar-se/sentar-se
+sentar	sentar-se
 sentar-se	sentar
 soar	comprender/compreender/entender
 submergir	naufragar/afundar
 tencionar	surgir/aparecer
 verter	manar/fluir/correr
 viajar	caminhar/ir/andar
-

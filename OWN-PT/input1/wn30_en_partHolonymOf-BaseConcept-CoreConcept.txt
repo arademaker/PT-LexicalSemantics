@@ -14,7 +14,7 @@ anexo	prédio/edifício
 ano	decênio/década
 aposento	prédio/edifício
 aquecimento	prédio/edifício
-arco	barril/ponte/ponte/barril
+arco	barril/ponte/barril
 arco-íris	céu
 arte	publicação/edição
 artigo	shopping
@@ -34,7 +34,7 @@ biblioteca	vivenda/habitação/casa
 boca	face/rosto/cara
 bochecha	face/rosto/cara
 bumbum	torso/tronco/corpo
-bunda	torso/torso/tronco/tronco/corpo/corpo
+bunda	torso/tronco/corpo
 buraco	agulha
 cabeça	criatura/animal/besta/bicho/ser/corpo
 cabo	brocha/chapéu-de-chuva/escova/sombrinha/caneca/guarda-chuva/pincel
@@ -76,7 +76,7 @@ estômago	torso/tronco/corpo
 expedição	comercialismo/mercantilismo/comércio
 face	criatura/animal/besta/bicho/cabeça/humano/ser
 faringe	pescoço
-fechadura	portas/gaveta/tampa/porta/porta/portão/portão/caixa
+fechadura	portas/gaveta/tampa/porta/portão/caixa
 feição	temperamento/personalidade/pessoa
 fenestra	auto/autocarro/ônibus/automóvel/prédio/viatura/carro/edifício/veículo
 fragmento	flora/planta/vegetal
@@ -111,11 +111,10 @@ mento	face/rosto/cara
 mercadoria	shopping
 metade	basquete/basquetebol/bola-ao-cesto/basquetebol/futebol
 min	hora
-minarete	mesquita/mesquita/mesquitas
+minarete	mesquita/mesquitas
 minuto	hora
 missiva	correio/correspondência
 molho	prato
-muralha	aposento/prédio/saguão/edifício/quarto/salão/sala
 muro	aposento/prédio/saguão/edifício/quarto/salão/sala
 nalga	torso/tronco/corpo
 natureza	temperamento/personalidade/pessoa
@@ -132,13 +131,14 @@ pavimento	aposento/prédio/saguão/edifício/quarto/salão/sala
 peculiaridade	temperamento/personalidade/pessoa
 peito	torso/seio/tronco/corpo
 perna	corpo
-personalidade	alguém/temperamento/indivíduo/alma/pessoa/pessoa
+personalidade	alguém/temperamento/indivíduo/alma/pessoa
 pessoa	alguém/indivíduo/alma
 piso	aposento/prédio/saguão/edifício/quarto/salão/sala
 popô	torso/tronco/corpo
 porrada	peleja/pugna/disputa/combate/batalha/luta
 porção	repasto/refeição
-prato	repasto/repasto/refeição/refeição
+prato	repasto/refeição
+procedimento	programa
 produto	shopping
 pulso	braço
 punho	braço
@@ -154,7 +154,7 @@ relevo	terra/mundo
 representação	desempenho/performance/interpretação/apresentação
 rincão	prédio/edifício
 rosto	criatura/animal/besta/bicho/cabeça/humano/ser
-ruga	pele/pele
+ruga	pele
 s	min/minuto
 sala	prédio/edifício
 sec	min/minuto
@@ -164,11 +164,11 @@ semana	mês
 setor	economia/sociedade
 sintoma	doenças/doença
 solo	terra/mundo
-sub-rotina	programa/programa
+sub-rotina	programa
 sub-área	civilização/cultura
-subcultura	civilização/civilização/cultura/cultura
+subcultura	civilização/cultura
 subrotina	programa
-sulco	pele/pele
+sulco	pele
 sílaba	verbo/vocábulo/termo/palavra
 sótão	vivenda/habitação/casa
 taramela	brocha/chapéu-de-chuva/escova/sombrinha/caneca/guarda-chuva/pincel
@@ -183,11 +183,11 @@ torso	corpo
 transportação	comercialismo/mercantilismo/comércio
 transporte	comercialismo/mercantilismo/comércio
 trapeira	vivenda/habitação/casa
-traseiro	torso/torso/tronco/tronco/corpo/corpo
+traseiro	torso/tronco/corpo
 trava	gol
 traço	face/rosto/cara
 trinco	brocha/chapéu-de-chuva/escova/sombrinha/caneca/guarda-chuva/pincel
-tronco	torso/corpo/corpo
+tronco	torso/corpo
 têmpora	cabeça
 tórax	seio/peito
 umbigo	abdome/abdômen/estômago/ventre/abdómen/tronco/barriga
@@ -199,4 +199,3 @@ vidro	copo
 átomo	molécula
 ânus	torso/tronco/corpo
 índole	temperamento/personalidade/pessoa
-

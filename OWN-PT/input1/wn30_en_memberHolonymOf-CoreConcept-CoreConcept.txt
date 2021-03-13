@@ -8,7 +8,7 @@ bezerro	vacas/bovinos/gado
 bicha	tabela
 bovinos	grei/manada/rebanho/gado
 cachorro	matilha
-carneiro	grei/manada/rebanho/rebanho/gado
+carneiro	grei/manada/rebanho/gado
 carro	caminhos-de-ferro/locomotivas/trem/comboio
 cepa	espécie/espécies/espécie
 coluna	tabela
@@ -35,7 +35,7 @@ gado	grei/manada/rebanho
 galáxia	cosmo/universo/mundo/criação
 guarda	polícia/lei
 indivíduo	população/gente/pessoal/povo
-júri	juizado/juizado/tribunal/tribunal/corte/corte
+júri	juizado/tribunal/corte
 legislatura	autoridades/regime/governo
 livro	jogo/grupo
 locomotiva	caminhos-de-ferro/locomotivas/trem/comboio
@@ -43,8 +43,8 @@ locomotivas	caminhos-de-ferro/trem/comboio
 marido	casal/casamento
 máquina	caminhos-de-ferro/locomotivas/trem/comboio
 nebulosa	cosmo/universo/mundo/criação
-ovelha	grei/manada/rebanho/rebanho/gado
-ovinos	grei/manada/rebanho/rebanho/gado
+ovelha	grei/manada/rebanho/gado
+ovinos	grei/manada/rebanho/gado
 parente	clã/familia/tribo/família
 pessoa	população/gente/pessoal/povo
 policial	polícia/lei
@@ -59,4 +59,3 @@ vegetação	biota/biologia
 vitelo	vacas/bovinos/gado
 votante	eleitorado
 votantes	eleitorado
-

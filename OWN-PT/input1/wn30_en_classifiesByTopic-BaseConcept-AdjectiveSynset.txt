@@ -26,7 +26,7 @@ jurisprudência	maior/alienável/probatório/processual/residual/indevido/substa
 lei	maior/alienável/probatório/processual/residual/indevido/substancial/substantivo/essencial
 linguagem	diacrónico/diacrônico/sincrônico
 linguística	vocativo/ablativo/animado/inanimado/médio/analítico/tardio/sintético/antigo
-lingüística	vocativo/vocativo/ablativo/ablativo/animado/animado/inanimado/inanimado/médio/médio/analítico/analítico/tardio/tardio/sintético/sintético/antigo/antigo
+lingüística	vocativo/ablativo/animado/inanimado/médio/analítico/tardio/sintético/antigo
 língua	diacrónico/diacrônico/sincrônico
 mamífero	plantígrados
 matematica	diagonalizável/monotônico/primo/analítico/diferencial/irracional/inverso/racional/contínuo
@@ -35,7 +35,7 @@ mobiliário	fornecido/mobilado/mobiliado/equipado
 mobília	fornecido/mobilado/mobiliado/equipado
 movéis	fornecido/mobilado/mobiliado/equipado
 móvel	fornecido/mobilado/mobiliado/equipado
-música	rápido/atonal/legato/medido/polifônico/staccato/mensurável/tonal/cromático/lento/serial/dramático/lírico/lírico/maior/natural/segundo
+música	rápido/atonal/legato/medido/polifônico/staccato/mensurável/tonal/cromático/lento/serial/dramático/lírico/maior/natural/segundo
 negócio	físico
 organismo	celular
 planta	sempre-verde/gregário/carnívoro
@@ -50,4 +50,3 @@ transportação	conectado/online
 transporte	conectado/online
 tributo	progressivo
 vegetal	sempre-verde/gregário/carnívoro
-

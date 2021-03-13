@@ -5,7 +5,7 @@ associado	associação/sociedade/união/organização/ordem
 associação	organização
 audiência	mundo/gente/povo
 cidadã	população/gente/povo
-cidadão	nação/população/gente/gente/povo/povo
+cidadão	nação/população/gente/povo
 companheiro	casal/casamento
 consorte	casal/casamento
 corpo	exército/exército
@@ -27,7 +27,7 @@ genitor	família
 gente	humanidade/mundo/homem/povo
 guarda	polícia/lei
 indivíduo	população/gente/pessoal/povo
-júri	juizado/juizado/tribunal/tribunal/corte/corte
+júri	juizado/tribunal/corte
 marido	casal/casamento
 menino	família
 militar	exército
@@ -49,4 +49,3 @@ súdito	nação/gente/povo
 time	homens/mão-de-obra
 vegetação	biota/biologia
 árvore	bosque/mata/floresta
-

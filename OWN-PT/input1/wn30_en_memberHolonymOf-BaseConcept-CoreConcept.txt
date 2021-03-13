@@ -8,7 +8,7 @@ automotora	caminhos-de-ferro/locomotivas/trem/comboio
 automóvel	caminhos-de-ferro/locomotivas/trem/comboio
 barco	frota
 bezerro	vacas/bovinos/gado
-carneiro	grei/manada/rebanho/rebanho/gado
+carneiro	grei/manada/rebanho/gado
 carro	caminhos-de-ferro/locomotivas/trem/comboio
 comboio	caminhos-de-ferro/locomotivas/trem
 companheiro	casal/casamento
@@ -28,7 +28,7 @@ frota	armada/marinha
 galáxia	cosmo/universo/mundo/criação
 guarda	polícia/lei
 indivíduo	população/gente/pessoal/povo
-júri	juizado/juizado/tribunal/tribunal/corte/corte
+júri	juizado/tribunal/corte
 legislatura	autoridades/regime/governo
 locomotiva	caminhos-de-ferro/locomotivas/trem/comboio
 locomotivas	caminhos-de-ferro/trem/comboio
@@ -39,8 +39,8 @@ navio	frota
 navios	frota
 nebulosa	cosmo/universo/mundo/criação
 número	série
-ovelha	grei/manada/rebanho/rebanho/gado
-ovinos	grei/manada/rebanho/rebanho/gado
+ovelha	grei/manada/rebanho/gado
+ovinos	grei/manada/rebanho/gado
 parente	clã/familia/tribo/família
 pessoa	população/gente/pessoal/povo
 policial	polícia/lei
@@ -53,4 +53,3 @@ vagões	caminhos-de-ferro/locomotivas/trem/comboio
 vegetação	biota/biologia
 vitelo	vacas/bovinos/gado
 voto	eleitorado
-

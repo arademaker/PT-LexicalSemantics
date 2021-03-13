@@ -18,9 +18,9 @@ electrónica	heteródino/analógico/digital
 eletricidade	galvânico/indutivo/multi-fase/polifasico/alternado/alternativa/alterno
 eletronica	heteródino/analógico/digital
 eletrónica	heteródino/analógico/digital
-eletrônica	heteródino/heteródino/analógico/analógico/digital/digital
+eletrônica	heteródino/analógico/digital
 empresa	físico
-estatística	bimodal/bimodal
+estatística	bimodal
 estatísticas	bimodal
 expedição	conectado/online
 filosofia	imanente/subjetivo
@@ -46,7 +46,7 @@ mobiliário	fornecido/mobilado/mobiliado/equipado
 mobília	fornecido/mobilado/mobiliado/equipado
 movéis	fornecido/mobilado/mobiliado/equipado
 móvel	fornecido/mobilado/mobiliado/equipado
-música	rápido/atonal/legato/medido/polifônico/staccato/mensurável/tonal/cromático/lento/serial/dramático/lírico/lírico/maior/natural/segundo
+música	rápido/atonal/legato/medido/polifônico/staccato/mensurável/tonal/cromático/lento/serial/dramático/lírico/maior/natural/segundo
 negócio	físico
 planta	sempre-verde/gregário/carnívoro
 poema	lírico
@@ -64,4 +64,3 @@ transporte	conectado/online
 tributo	progressivo
 vegetal	sempre-verde/gregário/carnívoro
 verso	lírico
-

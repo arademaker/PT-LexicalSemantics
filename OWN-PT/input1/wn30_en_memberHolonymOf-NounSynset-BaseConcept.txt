@@ -18,14 +18,14 @@ caixilho	exército
 carta	baralho
 cepa	espécie/espécies/espécie
 cidadã	população/gente/povo
-cidadão	nação/população/gente/gente/povo/povo
-classe	filo/filo
+cidadão	nação/população/gente/povo
+classe	filo
 clérigo	clero
 coluna	tabela
 comissário	junta/comissão/comité/comitê
 companheiro	casal/casamento
 consorte	casal/casamento
-corpo	exército/exército/exército/exército
+corpo	exército/exército
 criança	família
 cónjuge	casal/casamento
 cônjuge	casal/casamento
@@ -38,9 +38,9 @@ equipe	homens/mão-de-obra/tripulação
 espectador	mundo/gente/povo
 esposa	casal/casamento
 esposo	casal/casamento
-espécies	filo/filo
+espécies	filo
 estado	país/nação/terra
-estirpe	espécie/espécie/espécies/espécies/espécie/espécie
+estirpe	espécie/espécies/espécie
 estrela	galáxia/nebulosa
 exército	corpo
 fauna	biota/biologia
@@ -56,14 +56,14 @@ gente	humanidade/mundo/homem/povo
 guarda	polícia/lei
 gângster	gangue/quadrilha
 género	família/classe
-gênero	família/família/classe/classe
+gênero	família/classe
 indivíduo	população/gente/pessoal/povo
 irmã	família
 irmão	irmandade/fraternidade/família/ordem
-jurado	júri/júri
-juror	júri/júri
-júri	juizado/juizado/tribunal/tribunal/corte/corte
-lenda	mitologia/mitologia
+jurado	júri
+juror	júri
+júri	juizado/tribunal/corte
+lenda	mitologia
 linha	tabela
 livro	jogo/grupo
 marginal	gangue/quadrilha
@@ -72,7 +72,7 @@ menino	família
 mestre	colégio/escola
 militar	exército
 milícia	corpo
-mito	mitologia/mitologia
+mito	mitologia
 mãe	família
 naipe	baralho
 nebulosa	cosmo/universo/mundo/criação
@@ -108,4 +108,3 @@ variante	espécie/espécies/espécie
 vegetação	biota/biologia
 zoologia	biota/biologia
 árvore	bosque/mata/floresta
-

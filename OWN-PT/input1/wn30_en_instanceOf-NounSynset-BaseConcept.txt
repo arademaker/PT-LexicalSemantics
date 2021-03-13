@@ -3,7 +3,7 @@ aberdare	arraial/burgo/aldeia/distrito/povoado/vila
 abidos	arraial/burgo/aldeia/distrito/povoado/vila
 acaia	região
 acapulco	porto
-acre	arraial/burgo/circunscrição/comarca/districto/aldeia/distrito/distrito/povoado/território/vila/domínio/porto
+acre	arraial/burgo/circunscrição/comarca/districto/aldeia/distrito/povoado/território/vila/domínio/porto
 acrux	estrela
 acádia	circunscrição/comarca/districto/distrito/território/domínio
 adem	porto
@@ -11,7 +11,7 @@ aden	porto
 adriático	mar
 adão	homem
 agrigento	arraial/burgo/aldeia/distrito/povoado/vila
-alabama	rio/rio/porto
+alabama	rio/porto
 alborg	porto
 alexandria	porto
 alpes	cordilheira/serra
@@ -84,7 +84,7 @@ barcelona	porto
 barranquilla	porto
 bartlesville	arraial/burgo/aldeia/distrito/povoado/vila
 barém	ilha
-bate-seba	esposa/esposa/mulher/mulher
+bate-seba	esposa/mulher
 bath	arraial/burgo/aldeia/distrito/povoado/vila
 baviera	província/estado
 baçora	porto
@@ -107,7 +107,7 @@ bioko	ilha
 bitínia	região
 blackpool	arraial/burgo/aldeia/distrito/povoado/vila
 bloomsbury	bairro/vizinhança
-bodisatva	deidade/deidade/deidades/deidades/divinidade/divinidade/deus/deus/deusa/deusa/divindade/divindade/deus/deus
+bodisatva	deidade/deidades/divinidade/deus/deusa/divindade/deus
 bodisatvas	deidade/deidades/divinidade/deus/deusa/divindade/deus
 bonaire	ilha
 bordeaux	porto
@@ -188,7 +188,7 @@ cingapura	ilha
 cisjordânia	região
 cnossos	arraial/burgo/aldeia/distrito/povoado/vila
 colette	autor/escritor
-colorado	rio/rio
+colorado	rio
 columbia	arraial/burgo/aldeia/distrito/povoado/vila
 columbo	arraial/burgo/aldeia/distrito/povoado/vila
 comenius	educacionista/pedagogo/educador
@@ -252,13 +252,13 @@ durban	porto
 durrës	porto
 dvorak	compositor
 ebro	rio
-eduardo	santo/santo
+eduardo	santo
 egeu	mar
 elam	região
 enid	arraial/burgo/aldeia/distrito/povoado/vila
 entebbe	arraial/burgo/aldeia/distrito/povoado/vila
-eoceno	época/época
-erié	lago/lago
+eoceno	época
+erié	lago
 esau	garoto/filho/menino
 esaú	garoto/filho/menino
 escalda	rio
@@ -277,12 +277,12 @@ fidji	país/nação/terra
 fiji	país/nação/terra
 filipinas	país/nação/terra
 flodden	morro/barranco/colina/montanha/ladeira/monte
-formosa	ilha/ilha
+formosa	ilha
 fredericksburg	arraial/burgo/aldeia/distrito/povoado/vila
 frederico	arraial/burgo/aldeia/distrito/povoado/vila
 freetown	porto
 frígia	região
-frísia	região/região
+frísia	região
 galicia	região
 galileia	região
 galiléia	região
@@ -353,7 +353,7 @@ hipona	arraial/burgo/aldeia/distrito/povoado/vila
 hipócrates	médico
 hiroshima	porto
 hispaniola	ilha
-hobart	porto/porto
+hobart	porto
 hohenlinden	arraial/burgo/aldeia/distrito/povoado/vila
 hokkaido	ilha
 hokkaidō	ilha
@@ -424,7 +424,7 @@ karnataka	província/estado
 kauai	ilha
 kennewick	arraial/burgo/aldeia/distrito/povoado/vila
 kieslowski	cineasta
-kiribati	país/país/nação/nação/terra/terra
+kiribati	país/nação/terra
 kiribáti	país/nação/terra
 kobe	porto
 kosovo	província/estado
@@ -513,7 +513,7 @@ maurício	país/nação/terra
 mayflower	embarcação/navios/navio/barco
 mazatlán	porto
 maçuá	arraial/burgo/aldeia/distrito/povoado/vila/porto
-mcallen	arraial/arraial/burgo/burgo/aldeia/aldeia/distrito/distrito/povoado/povoado/vila/vila
+mcallen	arraial/burgo/aldeia/distrito/povoado/vila
 medford	arraial/burgo/aldeia/distrito/povoado/vila
 mediterrâneo	mar
 mendelssohn	compositor
@@ -535,7 +535,7 @@ moline	arraial/burgo/aldeia/distrito/povoado/vila
 molokai	ilha
 mombaça	porto
 mongólia	região
-monroe	arraial/arraial/burgo/burgo/aldeia/aldeia/distrito/distrito/povoado/povoado/vila/vila
+monroe	arraial/burgo/aldeia/distrito/povoado/vila
 monrovia	porto
 monróvia	porto
 monserrate	ilha
@@ -562,7 +562,7 @@ natal	circunscrição/comarca/districto/distrito/território/domínio
 natchez	arraial/burgo/aldeia/distrito/povoado/vila
 nauru	ilha/país/nação/terra
 nazaré	arraial/burgo/aldeia/distrito/povoado/vila
-neolítico	etapa/etapa/tempo/tempo/período/período
+neolítico	etapa/tempo/período
 nevedfsd	ilha
 newport	porto
 nicolau	santo
@@ -634,7 +634,7 @@ plzeň	arraial/burgo/aldeia/distrito/povoado/vila
 plínio	autor/escritor
 pocatello	arraial/burgo/aldeia/distrito/povoado/vila
 pope	poetas/poeta/poetisa
-portsmouth	arraial/burgo/aldeia/distrito/povoado/vila/porto/porto
+portsmouth	arraial/burgo/aldeia/distrito/povoado/vila/porto
 princeton	arraial/burgo/aldeia/distrito/povoado/vila
 prussia	região
 prússia	região
@@ -642,6 +642,7 @@ pártia	região
 pátras	porto
 píndaro	poetas/poeta/poetisa
 pólux	estrela
+queda	acontecimento/evento/fato
 quetzalcoatl	deidade/deidades/divinidade/deus/deusa/divindade/deus
 quetzalcóatl	deidade/deidades/divinidade/deus/deusa/divindade/deus
 quiribati	país/nação/terra
@@ -664,7 +665,7 @@ rute	esposa/mulher
 rutland	arraial/burgo/aldeia/distrito/povoado/vila
 ródano	rio
 ródope	cordilheira/serra
-rússia	país/país/nação/nação/terra/terra
+rússia	país/nação/terra
 rīga	porto
 saba	ilha
 sabá	circunscrição/comarca/districto/distrito/território/domínio
@@ -713,8 +714,8 @@ singapura	ilha
 siquim	região
 sião	morro/barranco/colina/montanha/ladeira/monte
 skagway	arraial/burgo/aldeia/distrito/povoado/vila
-soho	bairro/bairro/vizinhança/vizinhança
-sol	estrela/estrela
+soho	bairro/vizinhança
+sol	estrela
 somerset	arraial/burgo/aldeia/distrito/povoado/vila/condado
 sousse	porto
 spica	estrela
@@ -723,8 +724,8 @@ sri-lanka	país/nação/terra
 stabroek	porto
 stavanger	porto
 stendhal	autor/escritor
-stratford-upon-avon	arraial/arraial/burgo/burgo/aldeia/aldeia/distrito/distrito/povoado/povoado/vila/vila
-sudeste	região/região
+stratford-upon-avon	arraial/burgo/aldeia/distrito/povoado/vila
+sudeste	região
 sudoeste	região
 sul	região
 sumatra	ilha
@@ -738,7 +739,7 @@ swansea	porto
 sérvia	região
 tabasco	província/estado
 taiti	ilha
-taiwan	ilha/ilha
+taiwan	ilha
 tallinn	porto
 tamerlão	governante/governador
 tampico	porto
@@ -821,7 +822,7 @@ willard	educacionista/pedagogo/educador
 wilmington	arraial/burgo/aldeia/distrito/povoado/vila
 witwatersrand	região
 xangai	porto
-xhosa	comunidade/comunidade
+xhosa	comunidade
 xinjiang	província/estado
 yakima	arraial/burgo/aldeia/distrito/povoado/vila
 yang-tsé	rio
@@ -838,11 +839,10 @@ zulu	comunidade
 áccio	arraial/burgo/aldeia/distrito/povoado/vila
 áden	porto
 ática	circunscrição/comarca/districto/distrito/território/domínio
-áustria-hungria	região/região
+áustria-hungria	região
 âccio	arraial/burgo/aldeia/distrito/povoado/vila
 ålborg	porto
 århus	porto
 épiro	região
 ísquia	ilha
 ítaca	ilha
-

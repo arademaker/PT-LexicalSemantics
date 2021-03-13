@@ -1,4 +1,4 @@
-aberto	fechado/fechado/fechado
+aberto	fechado
 abstrato	concreto
 aconselhável	desaconselhável
 acromático	cromático
@@ -9,7 +9,7 @@ alienável	inalienável
 alto	baixo
 amigável	malvado
 anabólico	catabólico
-analítico	sintético/sintético
+analítico	sintético
 analógico	digital
 anormal	normal
 apegado	desvinculado
@@ -24,7 +24,7 @@ automático	manual
 baixo	alto
 barlavento	sotavento
 caduco	duradouro
-capaz	incapaz/incapaz/incapaz
+capaz	incapaz
 carnívoro	herbívoro
 casado	solteiro
 catabólico	anabólico
@@ -33,8 +33,8 @@ centralizado	descentralizado
 centrífugo	centrípeto
 centrípeto	centrífugo
 comparável	incomparável
-compatível	incompatível/incompatível
-compreensível	incompreensível/incompreensível
+compatível	incompatível
+compreensível	incompreensível
 comum	individual
 conclusivo	inconclusivo
 concreto	abstrato
@@ -54,7 +54,7 @@ desaconselhável	aconselhável
 descendente	ascendente
 descentralizado	centralizado
 desempregado	ocupado
-desfavorável	favorável/favorável
+desfavorável	favorável
 desobediente	obediente
 desorganizado	organizado
 desrespeitoso	respeitoso
@@ -85,11 +85,11 @@ extramural	intramural
 extraterritorial	territorial
 exógeno	endógeno
 falível	infalível
-favorável	desfavorável/desfavorável
+favorável	desfavorável
 febril	afebril
-fechado	aberto/aberto/aberto
+fechado	aberto
 finito	infinito
-flexível	inflexível/inflexível/inflexível
+flexível	inflexível
 físico	mental
 geocêntrico	heliocêntrico
 geográfico	magnético
@@ -115,11 +115,11 @@ imparcial	parcial
 impermeável	permeável
 implícito	explícito
 impossível	possível
-improvável	provável/provável
+improvável	provável
 inalienável	alienável
-incapaz	capaz/capaz/capaz
+incapaz	capaz
 incomparável	comparável
-incompatível	compatível/compatível
+incompatível	compatível
 incompreensível	compreensível
 inconclusivo	conclusivo
 incondicional	condicionado
@@ -137,7 +137,7 @@ inevitável	evitável
 infalível	falível
 inferior	superior
 infinito	finito
-inflexível	flexível/flexível/flexível
+inflexível	flexível
 inoperável	operável
 insensível	diplomático
 instrumental	vocal
@@ -151,7 +151,7 @@ intramural	extramural
 intransitivo	transitivo
 invariável	variável
 invulnerável	vulnerável
-irracional	racional/racional
+irracional	racional
 irrecuperável	recuperável
 irremediável	remediável
 irreversível	reversvel
@@ -168,7 +168,7 @@ lírico	dramático
 magnético	geográfico
 manual	automático
 material	imaterial
-melhor	pior/pior
+melhor	pior
 mental	físico
 monocromático	policromático
 mononuclear	binucleado
@@ -191,7 +191,7 @@ perinatal	pré-natal
 permeável	impermeável
 perpendicular	oblíquo
 pesado	leve
-pior	melhor/melhor/melhor
+pior	melhor
 polar	equatorial
 policromático	monocromático
 possível	impossível
@@ -200,13 +200,13 @@ primário	secundário
 privado	público
 profano	sagrado
 provincial	cosmopolita
-provável	improvável/improvável
+provável	improvável
 pré-natal	perinatal
 próximo	distante
 público	privado
 qualitativo	quantitativo
 quantitativo	qualitativo
-racional	irracional/irracional
+racional	irracional
 recuperável	irrecuperável
 remediável	irremediável
 respeitoso	desrespeitoso
@@ -218,7 +218,7 @@ secundário	primário
 segregado	integrado
 sexual	assexual
 simétrico	assimétrico
-sintético	analítico/analítico
+sintético	analítico
 sofisticado	cândido
 solteiro	casado
 sotavento	barlavento
@@ -241,4 +241,3 @@ variável	invariável
 velho	jovem
 vocal	instrumental
 vulnerável	invulnerável
-

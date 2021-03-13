@@ -13,7 +13,7 @@ afixar	aderir/grudar/colar
 afrouxar	sossegar
 afundar	naufragar
 agoniar	agonizar
-agradar	gostar/gostar
+agradar	gostar
 aguçar	acerar/aprofundar/afiar
 ajuntar	encontrar/reunir
 alastrar	circular/espalhar
@@ -35,7 +35,7 @@ apavorar	apavorar-se/temer
 aperfeiçoar	melhorar
 apor	aderir/grudar/colar
 aposentar	aposentar-se
-aprazer	gostar/gostar
+aprazer	gostar
 apresentar	enxergar/olhar/ver
 apressar	acelerar/correr
 aquecer	acalorar/esquentar
@@ -64,9 +64,9 @@ colar	aderir/grudar
 colocar	jazer
 começar	principiar/iniciar
 comover	sentir/experimentar
-compelir	agir/agir/atuar/atuar/fazer/fazer
+compelir	agir/atuar/fazer
 completar	encher
-comprazer	gostar/gostar
+comprazer	gostar
 concluir	cessar/encerrar/finalizar/acabar/terminar/parar
 conduzir	agir/atuar/fazer
 considerar	julgar/pensar
@@ -96,9 +96,9 @@ doer	sofrer
 drogar	viajar
 efetuar	ocorrer/suceder/acontecer/passar
 elevar	ascender/subir/regozijar/regozijar-se/alegrar-se/alegrar
-embevecer	gostar/gostar
+embevecer	gostar
 empregar	valer/aplicar
-encantar	gostar/gostar
+encantar	gostar
 encerrar	cessar/finalizar/acabar/terminar/parar
 encharcar	beber/tomar
 encolerizar	enraivecer
@@ -136,7 +136,7 @@ focar	enfocar/focalizar
 formar	bacharelar/formar-se/graduar
 fortalecer	consolidar
 fortificar	consolidar
-forçar	agir/agir/atuar/atuar/fazer/fazer
+forçar	agir/atuar/fazer
 gelar	congelar
 graduar	bacharelar/formar-se/formar
 granular	granar
@@ -160,7 +160,7 @@ islamizar	converter
 juntar	encontrar/reunir/grudar/unir
 leccionar	aprender/adquirir
 lecionar	aprender/adquirir
-levantar	ascender/subir/subir/aumentar
+levantar	ascender/subir/aumentar
 licenciar	bacharelar/formar-se/graduar/formar
 machucar	doer/sofrer
 madurar	amadurecer
@@ -173,7 +173,7 @@ modificar	alterar/mudar
 mostrar	enxergar/olhar/ver
 mover	deslocar/mexer
 mudar	alterar
-obrigar	agir/agir/atuar/atuar/fazer/fazer
+obrigar	agir/atuar/fazer
 ocasionar	ocorrer/suceder/acontecer/passar
 odorizar	recender/cheirar
 ofender	ressentir
@@ -203,14 +203,14 @@ resfriar	arrefecer/esfriar-se/esfriar/refrescar
 ressuscitar	reviver/acordar
 reunir	encontrar
 reviver	ressuscitar/acordar
-satisfazer	gostar/gostar
+satisfazer	gostar
 sensibilizar	sentir
-sentar	sentar-se/sentar-se
+sentar	sentar-se
 sentar-se	sentar
 separar	desunir/partir/dividir
 silenciar	calar
 sindicalizar	organizar
-soar	comprender/compreender/entender/ressoar/ressoar/fazer/fazer
+soar	comprender/compreender/entender/ressoar/fazer
 submergir	naufragar/afundar
 sujeitar	vivenciar/experienciar/experimentar
 superaquecer	sobreaquecer
@@ -220,7 +220,7 @@ terminar	cessar/encerrar/finalizar/acabar/parar
 torturar	agonizar/agoniar
 transmitir	circular/espalhar
 treinar	malhar/exercitar
-unir	grudar/juntar/juntar
+unir	grudar/juntar
 urgir	acelerar/apressar/correr
 usar	valer/aplicar
 utilizar	valer/aplicar
@@ -228,4 +228,3 @@ verter	manar/fluir/correr
 viajar	caminhar/ir/andar
 virar	derrubar
 zangar	enraivecer
-

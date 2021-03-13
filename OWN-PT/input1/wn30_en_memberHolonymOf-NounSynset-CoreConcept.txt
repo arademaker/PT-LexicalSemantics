@@ -18,7 +18,7 @@ bonobo	chimpanzé
 bovinos	grei/manada/rebanho/gado
 burocracia	autoridades/regime/governo
 cachorro	matilha
-carneiro	grei/manada/rebanho/rebanho/gado
+carneiro	grei/manada/rebanho/gado
 carro	caminhos-de-ferro/locomotivas/trem/comboio
 carta	baralho
 cepa	espécie/espécies/espécie
@@ -30,7 +30,7 @@ companheiro	casal/casamento
 consorte	casal/casamento
 constituintes	eleitorado
 copiloto	equipagem/tripulação/equipe
-corpo	exército/exército/exército/exército
+corpo	exército/exército
 cão	matilha
 cónjuge	casal/casamento
 cônjuge	casal/casamento
@@ -47,7 +47,7 @@ escola	faculdade/instituto
 espectador	mundo/gente/povo
 esposa	casal/casamento
 esposo	casal/casamento
-estirpe	espécie/espécie/espécies/espécies/espécie/espécie
+estirpe	espécie/espécies/espécie
 estrela	constelação/galáxia/nebulosa
 faculdade	instituto/escola
 fauna	biota/biologia
@@ -61,9 +61,9 @@ ies	faculdade/instituto/escola
 indivíduo	população/gente/pessoal/povo
 instituto	faculdade/escola
 juizado	autoridades/regime/governo
-jurado	júri/júri
-juror	júri/júri
-júri	juizado/juizado/tribunal/tribunal/corte/corte
+jurado	júri
+juror	júri
+júri	juizado/tribunal/corte
 legislatura	autoridades/regime/governo
 linha	tabela
 livro	jogo/grupo
@@ -79,8 +79,8 @@ nebulosa	cosmo/universo/mundo/criação
 número	série
 operário	proletariado
 ouvinte	audiências/ouvintes/público
-ovelha	grei/manada/rebanho/rebanho/gado
-ovinos	grei/manada/rebanho/rebanho/gado
+ovelha	grei/manada/rebanho/gado
+ovinos	grei/manada/rebanho/gado
 parente	clã/familia/tribo/família
 pessoa	população/gente/pessoal/povo
 plebeu	galera/vulgo/nação/gente/pessoal/povo
@@ -107,4 +107,3 @@ votante	eleitorado
 votantes	eleitorado
 voto	eleitorado
 zoologia	biota/biologia
-

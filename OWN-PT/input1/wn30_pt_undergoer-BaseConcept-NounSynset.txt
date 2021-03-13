@@ -2,7 +2,7 @@ adquirir	aquisição
 alocar	alocação
 apostar	aposta
 autorizar	autorização
-beber	bebida/bebida
+beber	bebida
 cheirar	cheiro
 classificar	classificação
 cobrir	cobertura
@@ -19,17 +19,16 @@ esperar	esperança
 exibir	exibição
 expor	exposição
 ganhar	ganho
-influenciar	influência/influência/influência
-influir	influência/influência/influência
+influenciar	influência
+influir	influência
 lacrimejar	lágrima
 ler	leitura
 medir	medida
-necessitar	necessidade/necessidade
+necessitar	necessidade
 pagar	pagamento
 recomendar	recomendação
-significar	significação/significação/significado/significado/significado
+significar	significação/significado
 subir	subida
 subornar	suborno
 substituir	substituto
 ver	visão
-

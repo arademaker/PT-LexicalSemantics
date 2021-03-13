@@ -46,7 +46,7 @@ corresponder-se	redigir/escrever
 corrigir	ler
 curar	tratar
 curvar	flexionar/deformar/torcer
-debandar	apressar/correr/correr
+debandar	apressar/correr
 debater	diferir/divergir/discordar
 decidir	deliberar/debater
 defender	brigar/disputar/lutar
@@ -59,11 +59,11 @@ desculpar-se	confessar/reconhecer/admitir
 desfigurar	lesionar/lesar/ferir/machucar
 diferenciar	comparar
 direcionar	viajar/caminhar/ir/andar
-dirigir	viajar/caminhar/ir/ir/andar
+dirigir	viajar/caminhar/ir/andar
 discernir	aperceber/aperceber-se/perceber/entender
 discursar	falar/dizer
 discutir	diferir/divergir/discordar
-disputar	competir/competir/concorrer/concorrer
+disputar	competir/concorrer
 distinguir	comparar
 drapear	dobrar
 drapejar	dobrar
@@ -122,7 +122,7 @@ licenciar	deferir/sancionar/aprovar
 liderar	competir/concorrer
 liquidar	vender
 lixar	esfregar
-lustrar	esfregar/esfregar
+lustrar	esfregar
 lutar	competir/concorrer
 malhar	deslocar/mover/mexer
 mamar	beber/tomar
@@ -134,7 +134,7 @@ minerar	cavar
 mirar	enxergar/olhar/ver
 mover	jogar
 notar	aperceber/aperceber-se/perceber/entender
-observar	aperceber/aperceber/aperceber-se/aperceber-se/enxergar/perceber/perceber/olhar/entender/entender/ver
+observar	aperceber/aperceber-se/enxergar/perceber/olhar/entender/ver
 obter	seleccionar/selecionar/pagar/escolher
 ocultar	tampar/cobrir
 oferecer	pechinchar/regatear
@@ -148,12 +148,12 @@ pairar	ascender/subir
 papar	deglutir/ingurgitar/mastigar/mascar/engolir
 parir	engravidar/conceber
 patinar	dançar
-perceber	aperceber/aperceber/aperceber-se/aperceber-se/entender/entender
+perceber	aperceber/aperceber-se/entender
 perder	competir/concorrer/viajar/caminhar/ir/andar
 perjurar	depor
 pilotar	voar
 pixar	tampar/cobrir
-polir	esfregar/esfregar
+polir	esfregar
 pospor	cancelar
 postergar	cancelar
 praticar	trabalhar
@@ -197,4 +197,3 @@ vazar	destruir/quebrar
 vencer	competir/concorrer/ganhar
 ver	aperceber/aperceber-se/enxergar/perceber/olhar/entender
 ziguezaguear	virar-se/tornar-se/virar
-

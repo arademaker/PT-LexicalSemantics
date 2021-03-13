@@ -11,11 +11,11 @@ cavalo	potro
 clã	parente
 comboio	automotora/locomotiva/vagões/automóvel/locomotivas/trem/vagão/carro/máquina
 constelação	estrela
-corte	júri/júri
+corte	júri
 cosmo	galáxia/nebulosa
 criação	galáxia/nebulosa
 eleitorado	voto
-exército	militar/corpo/corpo
+exército	militar/corpo
 familia	parente
 família	parente
 frota	embarcação/navios/navio/barco
@@ -24,7 +24,7 @@ galáxia	estrela
 gente	alguém/indivíduo/alma/pessoa/audiência/espectador
 governo	legislatura/departamento/divisão
 grei	ovinos/ovelha/carneiro
-juizado	júri/júri
+juizado	júri
 lei	policial/polícia/agente/guarda
 locomotivas	automotora/locomotiva/vagões/automóvel/trem/vagão/carro/comboio/máquina
 manada	ovinos/ovelha/carneiro
@@ -37,15 +37,14 @@ pessoal	alguém/indivíduo/alma/pessoa
 polícia	policial/agente/guarda
 população	alguém/indivíduo/alma/pessoa
 povo	alguém/indivíduo/alma/pessoa/audiência/espectador
-rebanho	ovinos/ovinos/ovelha/ovelha/carneiro/carneiro
+rebanho	ovinos/ovelha/carneiro
 regime	legislatura/departamento/divisão
 sociedade	associado
 série	número
 trem	automotora/locomotiva/vagões/automóvel/locomotivas/vagão/carro/comboio/máquina
 tribo	parente
-tribunal	júri/júri
+tribunal	júri
 universo	galáxia/nebulosa
 união	associado
 vacas	bezerro/terneiro/vitelo
 égua	potro
-

@@ -3,11 +3,11 @@ absorção	quimica/química
 acta	jurisprudência/lei
 actuar	dramaturgia/teatro
 acusado	jurisprudência/lei
-adoção	jurisprudência/jurisprudência/lei/lei
+adoção	jurisprudência/lei
 adquirir	comercialismo/mercantilismo/comércio
 advogado	jurisprudência/lei
 advogar	jurisprudência/lei
-amputar	incisão/medicina/medicina/remédio
+amputar	medicina
 anistia	jurisprudência/lei
 aprisionar	jurisprudência/lei
 arapuca	criatura/animal/besta/bicho/ser
@@ -27,12 +27,12 @@ caminhar	esporte
 canal	rio
 casal	jurisprudência/lei
 casamento	jurisprudência/lei
-causa	jurisprudência/jurisprudência/lei/lei
+causa	jurisprudência/lei
 chinês	industria/empresa/negócio/arte/comércio
 cine	industria/empresa/negócio/arte/comércio
 cinema	industria/empresa/negócio/arte/comércio
 coima	jurisprudência/lei
-coluna	arquitetura/arquitetura/arquitectura/arquitectura
+coluna	arquitetura/arquitectura
 comercializar	comercialismo/mercantilismo/comércio
 compor	música
 comprar	comercialismo/mercantilismo/comércio
@@ -45,12 +45,12 @@ contrato	jurisprudência/lei
 conúbio	jurisprudência/lei
 corpo	criatura/animal/besta/bicho/humano/ser
 costume	psicologia
-cronista	história/história
-crónica	história/história
-crônica	história/história
+cronista	história
+crónica	história
+crônica	história
 cultivar	flora/planta/vegetal
 curador	jurisprudência/lei
-curar	incisão/medicina/medicina/remédio
+curar	medicina
 curva	rio
 código	informática
 decreto	jurisprudência/lei
@@ -63,8 +63,8 @@ divórcio	jurisprudência/lei
 domar	flora/planta/vegetal
 domesticar	flora/planta/vegetal
 dono	jurisprudência/lei
-dopar	incisão/medicina/medicina/remédio
-drogar	incisão/medicina/medicina/remédio
+dopar	medicina
+drogar	medicina
 empenhar	comercialismo/mercantilismo/comércio
 emprisonar	jurisprudência/lei
 encarcerar	jurisprudência/lei
@@ -93,8 +93,8 @@ gravidade	física
 gravitação	física
 gregário	criatura/animal/besta/bicho/ser
 hardware	informática
-historiador	história/história
-historiografo	história/história
+historiador	história
+historiografo	história
 hábito	psicologia
 importar	comercialismo/mercantilismo/comércio
 impressora	informática
@@ -107,7 +107,7 @@ iteração	informática
 jogada	jogo
 judiciário	jurisprudência/lei
 juiz	esporte
-julgamento	jurisprudência/jurisprudência/lei/lei
+julgamento	jurisprudência/lei
 jurisdição	jurisprudência/lei
 jurista	jurisprudência/lei
 juízo	jurisprudência/lei
@@ -132,8 +132,8 @@ mostrar	jurisprudência/lei
 multa	jurisprudência/lei
 musico	música
 média	estatística/estatísticas/estatística
-músico	música/música
-narcotizar	incisão/medicina/medicina/remédio
+músico	música
+narcotizar	medicina
 naturalizar	flora/planta/vegetal
 norma	estatística/estatísticas/estatística
 obter	comercialismo/mercantilismo/comércio
@@ -155,9 +155,9 @@ plantar	agricultura/pecuária/cultivo
 pleitear	jurisprudência/lei
 pleito	jurisprudência/lei
 prender	jurisprudência/lei
-processo	jurisprudência/jurisprudência/jurisprudência/lei/lei/lei
+processo	jurisprudência/lei
 produzir	agricultura/pecuária/cultivo
-programa	informática/informática
+programa	informática
 proprietário	jurisprudência/lei
 prova	matematica/matemática
 provar	jurisprudência/lei
@@ -176,8 +176,8 @@ rápido	música
 réu	jurisprudência/lei
 sacrificio	criatura/animal/besta/bicho/ser
 sacrifício	criatura/animal/besta/bicho/ser
-sanar	incisão/medicina/medicina/remédio
-sarar	incisão/medicina/medicina/remédio
+sanar	medicina
+sarar	medicina
 semear	agricultura/pecuária/cultivo
 sentença	jurisprudência/lei
 sequestrar	crime/ofensa
@@ -207,4 +207,3 @@ veredito	jurisprudência/lei
 voto	jurisprudência/lei
 árbitro	esporte
 átomo	quimica/física/química
-

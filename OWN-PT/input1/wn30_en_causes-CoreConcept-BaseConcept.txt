@@ -29,4 +29,3 @@ transmitir	circular/espalhar
 treinar	malhar/exercitar
 verter	manar/fluir/correr
 virar	derrubar
-

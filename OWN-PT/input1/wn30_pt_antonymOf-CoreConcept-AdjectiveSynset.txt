@@ -66,4 +66,3 @@ tolo	sábio
 típico	atípico
 velho	jovem
 vulnerável	invulnerável
-

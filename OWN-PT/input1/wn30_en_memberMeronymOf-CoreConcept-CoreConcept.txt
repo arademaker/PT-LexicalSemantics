@@ -12,11 +12,11 @@ comitê	director/diretor
 companhia	elenco
 compromisso	ficante/acompanhante
 conselho	director/diretor
-corte	júri/júri
+corte	júri
 cosmo	galáxia/nebulosa
 criação	galáxia/nebulosa
 eleitorado	constituintes/eleitor/eleitores/votante/votantes
-espécie	cepa/cepa/estirpe/estirpe/variante/variante
+espécie	cepa/estirpe/variante
 espécies	cepa/estirpe/variante
 familia	parente
 família	parente
@@ -26,7 +26,7 @@ governo	legislatura/departamento/divisão
 grei	ovinos/vacas/bovinos/gado/ovelha/carneiro
 grupo	livro
 jogo	livro
-juizado	júri/júri
+juizado	júri
 junta	director/diretor
 lei	policial/polícia/agente/guarda
 locomotivas	automotora/locomotiva/vagões/automóvel/trem/vagão/carro/comboio/máquina
@@ -37,12 +37,11 @@ pessoal	alguém/elenco/indivíduo/alma/pessoa
 polícia	policial/agente/guarda
 população	alguém/indivíduo/alma/pessoa
 povo	alguém/indivíduo/alma/pessoa
-rebanho	ovinos/ovinos/vacas/bovinos/gado/ovelha/ovelha/carneiro/carneiro
+rebanho	ovinos/vacas/bovinos/gado/ovelha/carneiro
 regime	legislatura/departamento/divisão
 tabela	coluna/bicha
 trem	automotora/locomotiva/vagões/automóvel/locomotivas/vagão/carro/comboio/máquina
 tribo	parente
-tribunal	júri/júri
+tribunal	júri
 universo	galáxia/nebulosa
 vacas	bezerro/terneiro/vitelo
-

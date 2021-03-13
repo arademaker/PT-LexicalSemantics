@@ -79,7 +79,7 @@ jogado	jogo
 legato	música
 lento	música
 luterano	religião/fé
-lírico	música/música
+lírico	música
 macho	biologia
 magnético	física
 maior	jurisprudência/música/lei
@@ -142,4 +142,3 @@ varão	biologia
 vocativo	lingüística/linguística/lingüística
 volátil	quimica/química
 ácido	quimica/química
-

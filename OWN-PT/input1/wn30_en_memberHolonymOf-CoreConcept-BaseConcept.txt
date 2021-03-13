@@ -28,12 +28,12 @@ genitor	família
 gente	humanidade/mundo/homem/povo
 guarda	polícia/lei
 indivíduo	população/gente/pessoal/povo
-júri	juizado/juizado/tribunal/tribunal/corte/corte
-lenda	mitologia/mitologia
+júri	juizado/tribunal/corte
+lenda	mitologia
 livro	jogo/grupo
 marido	casal/casamento
 menino	família
-mito	mitologia/mitologia
+mito	mitologia
 mãe	família
 nebulosa	cosmo/universo/mundo/criação
 pai	família
@@ -49,4 +49,3 @@ província	país/nação/terra
 variante	espécie/espécies/espécie
 vegetação	biota/biologia
 árvore	bosque/mata/floresta
-

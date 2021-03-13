@@ -5,19 +5,19 @@ areia	formigão/betão/praia/concreto/faixa
 argila	olaria/tijolo/cerâmica/telha
 carbono	hulha/carvão/calcário/petróleo-bruto/petróleo/óleo
 chumbo	galena
-cobre	calcocita/calcocita/calcopirita/calcopirita/cuprita/cuprita/latão/latão/malaquita/malaquita/bronze/bronze/bronze/bronze
+cobre	calcocita/calcopirita/cuprita/latão/malaquita/bronze
 enxofre	sulfeto/sulfetos/sulfureto
 enxôfre	sulfeto/sulfetos/sulfureto
 estanho	cassiterita
 farinha	pasta/pão/massa/pastel
 ferro	aço
-gelo	geleira/glaciares/glaciares/glaciar
+gelo	geleira/glaciares/glaciar
 greda	olaria/tijolo/cerâmica/telha
 lanígero	tweed
 lã	tweed
 madeira	viga/trave
-marfim	colmilho/colmilho
-mel	hidromel/hidromel
+marfim	colmilho
+mel	hidromel
 mineral	rocha/pedra
 minérios	rocha/pedra
 osso	chifre/corno
@@ -25,13 +25,10 @@ ouro	dourado
 oxigénio	água/ar/ozono/ozónio/ozônio
 oxigênio	água/ar/ozono/ozónio/ozônio
 prata	acantita
-proteina	vianda/ovo/leite/carne/legume/vegetal
 proteína	vianda/ovo/leite/carne/legume/vegetal
-proteínas	vianda/vianda/ovo/ovo/leite/leite/carne/carne/legume/legume/vegetal/vegetal
 sodio	halita/salmoura
 sódio	halita/salmoura
 tecido	organismo/ser
 vinho	uva
 água	perspiração/sudorese/gelo/lágrima/suor/transpiração
 óleo	margarina
-

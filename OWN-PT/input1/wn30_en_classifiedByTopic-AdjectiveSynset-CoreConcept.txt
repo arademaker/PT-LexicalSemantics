@@ -10,7 +10,7 @@ alternativa	electricidade/eletricidade
 alterno	electricidade/eletricidade
 anal	psicanálise
 analítico	matematica/matemática
-analógico	electrónica/eletronica/eletrónica/eletrônica/eletrônica
+analógico	electrónica/eletronica/eletrónica/eletrônica
 anfotérico	quimica/química
 anglicano	religião/fé
 anidro	quimica/química
@@ -42,7 +42,7 @@ diacrónico	linguagem/discurso/idioma/língua
 diacrônico	linguagem/discurso/idioma/língua
 diagonalizável	matematica/matemática
 diferencial	matematica/matemática
-digital	electrónica/eletronica/eletrónica/eletrônica/eletrônica
+digital	electrónica/eletronica/eletrónica/eletrônica
 dinâmico	física
 dramático	música
 entalhado	literatura
@@ -59,7 +59,7 @@ genitiva	gramática
 greco-ortodoxo	religião/fé
 gregário	criatura/flora/animal/besta/bicho/planta/vegetal/ser
 guardado	contrato/acordo
-heteródino	electrónica/eletronica/eletrónica/eletrônica/eletrônica
+heteródino	electrónica/eletronica/eletrónica/eletrônica
 hidrodinâmico	física
 hidrofóbica	quimica/química
 hidrossolúvel	quimica/química
@@ -81,7 +81,7 @@ jogado	jogo
 legato	música
 lento	música
 luterano	religião/fé
-lírico	poema/verso/poesia/música/música
+lírico	poema/verso/poesia/música
 magnético	física
 maior	jurisprudência/música/lei
 medido	música
@@ -139,4 +139,3 @@ tonal	música
 transitivo	gramática
 volátil	quimica/química
 ácido	quimica/química
-

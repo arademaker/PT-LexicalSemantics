@@ -29,7 +29,7 @@ circular	alastrar/difundir/disseminar/espalhar/transmitir
 cobrir	tampar/tratar
 colar	aderir/grudar
 combustir	queimar
-comer	papar/papar
+comer	papar
 compatibilizar	corresponder/combinar/concordar
 compor	publicar/escrever
 comprar	obter/adquirir/atingir
@@ -42,7 +42,7 @@ conhecer	saber
 conquistar	auferir/ganhar
 converter	mudar
 criar	produzir/construir/fazer
-dar	legar/consentir/permitir/deixar/deixar/deixar/entregar/passar
+dar	legar/consentir/permitir/deixar/entregar/passar
 delinear	desenhar
 derrubar	virar
 desistir	ruir/colapsar/desabar/desmoronar/quebrar
@@ -116,11 +116,10 @@ trabalhar	moldar/forjar/modelar/formar
 transmitir	legar/deixar/entregar/passar/dar
 tratar	endereçar/lidar/falar/cobrir
 traçar	desenhar
-trocar	mudar/mudar
+trocar	mudar
 varrer	escovar
 ver	perceber/realizar/compreender/entender
 vestir	agasalhar/aparelhar
 vestir-se	agasalhar/aparelhar/vestir
 virar	transformar-se/tornar-se/transformar/acontecer
 visualizar	perceber/realizar/compreender/entender
-

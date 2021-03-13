@@ -65,4 +65,3 @@ suceder	tentar/procurar
 sufocar	tampar/cobrir
 ter	engravidar/conceber
 ver	enxergar/olhar
-

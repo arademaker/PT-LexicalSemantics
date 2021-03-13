@@ -1,5 +1,5 @@
 abotoar	desabotoar
-abrir	fechar/fechar/fechar
+abrir	fechar
 aceitar	rejeitar
 acender	apagar
 alegrar	entristecer
@@ -44,7 +44,7 @@ estabilizar	desestabilizar
 esvaziar	encher
 evitar	enfrentar
 explicar	ofuscar
-fechar	abrir/abrir/abrir
+fechar	abrir
 focar	embaçar
 humanizar	desumanizar
 imigrar	emigrar
@@ -67,4 +67,3 @@ seguir	preceder
 segurar	soltar
 simplificar	complicar
 soltar	segurar
-

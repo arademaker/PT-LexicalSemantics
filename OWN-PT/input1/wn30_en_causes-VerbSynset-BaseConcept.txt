@@ -30,7 +30,7 @@ circular	deslocar/mover/mexer
 coagir	agir/atuar/fazer
 colar	aderir/grudar
 comover	sentir/experimentar
-compelir	agir/agir/atuar/atuar/fazer/fazer
+compelir	agir/atuar/fazer
 completar	encher
 conduzir	agir/atuar/fazer
 cravar	aderir/grudar/colar
@@ -66,7 +66,7 @@ esporear	agir/atuar/fazer
 evaziar	esvaziar
 exercitar	malhar
 ferver	ebulir
-forçar	agir/agir/atuar/atuar/fazer/fazer
+forçar	agir/atuar/fazer
 gelar	congelar
 impacientar	acelerar/apressar/correr
 impressionar	sentir/experimentar
@@ -88,7 +88,7 @@ modificar	alterar/mudar
 mostrar	enxergar/olhar/ver
 mover	deslocar/mexer
 mudar	alterar
-obrigar	agir/agir/atuar/atuar/fazer/fazer
+obrigar	agir/atuar/fazer
 ocasionar	ocorrer/suceder/acontecer/passar
 odorizar	recender/cheirar
 parecer	sentir/experimentar
@@ -105,18 +105,17 @@ recordar	recordar-se/lembrar-se/lembrar
 reduzir	contrair-se/murchar/encolher/contrair
 relaxar	descontrair
 reptar	agir/atuar/fazer
-sentar	sentar-se/sentar-se
+sentar	sentar-se
 sentar-se	sentar
 separar	partir/dividir
-soar	ressoar/ressoar/fazer/fazer
+soar	ressoar/fazer
 submergir	naufragar/afundar
 tencionar	surgir/aparecer
 transmitir	circular/espalhar
 treinar	malhar/exercitar
-unir	grudar/juntar/juntar
+unir	grudar/juntar
 urgir	acelerar/apressar/correr
 verter	manar/fluir/correr
 viajar	caminhar/ir/andar
 virar	derrubar
 zangar	enraivecer
-

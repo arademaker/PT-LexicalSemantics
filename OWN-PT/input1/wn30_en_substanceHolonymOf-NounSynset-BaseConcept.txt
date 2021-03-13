@@ -1,14 +1,14 @@
 algodao	algodão/enchimento
 algodão	enchimento
-amino-ácido	proteina/proteína/proteínas/proteínas
-aminoácido	proteina/proteína/proteínas/proteínas
-aminoácidos	proteina/proteina/proteína/proteína/proteínas/proteínas/proteínas/proteínas
+amino-ácido	proteína
+aminoácido	proteína
+aminoácidos	proteína
 ar	vento
 cacau	chocolate
 cafeina	chá/café
 cafeína	chá/café
 capsaicina	pimentão/pimenta
-celulose	thread/thread/fibras/fibras/fibra/fibra/papel/papel
+celulose	thread/fibras/fibra/papel
 coalhada	queijo
 colmo	enchimento
 colágeno	osso
@@ -23,7 +23,7 @@ fosfolípido	membrana
 hidrogénio	água
 hidrogênio	água
 lignina	madeira
-melanina	pele/pele
+melanina	pele
 mineral	rocha/pedra
 minérios	rocha/pedra
 osso	chifre/corno
@@ -33,15 +33,12 @@ palha	enchimento
 papel	lauda/escudeiro/página
 pigmento	tinta/pintura/cor
 pigmentos	pigmento/tinta/pintura/cor
-proteina	vianda/ovo/leite/carne
 proteína	vianda/ovo/leite/carne
-proteínas	vianda/vianda/ovo/ovo/leite/leite/carne/carne
 queratina	cabelo
 silicone	areia
 silício	areia
-soro	sangue/sangue
+soro	sangue
 tecido	organismo/ser
 triacilglicerol	lípidos/gordura
 urdume	têxteis/pano/tecido/fazenda
 vapor	nuvem
-

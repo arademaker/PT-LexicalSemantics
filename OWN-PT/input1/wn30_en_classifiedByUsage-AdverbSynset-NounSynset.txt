@@ -6,7 +6,7 @@ cabalmente	coloquialismo
 candidamente	intensificador
 certamente	coloquialismo
 claramente	coloquialismo
-completamente	coloquialismo/coloquialismo/intensificador/intensificador
+completamente	coloquialismo/intensificador
 desesperadamente	coloquialismo
 desesperançadamente	coloquialismo
 desesperançosamente	coloquialismo
@@ -27,7 +27,7 @@ lentamente	coloquialismo
 literalmente	intensificador
 loucamente	intensificador
 maravilhosamente	intensificador
-muito	intensificador/intensificador
+muito	intensificador
 muitíssimo	coloquialismo
 obviamente	coloquialismo
 pior	comparativo
@@ -38,9 +38,8 @@ seguramente	coloquialismo
 simplesmente	intensificador
 singelamente	intensificador
 terrivelmente	coloquialismo
-totalmente	coloquialismo/coloquialismo/intensificador
+totalmente	coloquialismo/intensificador
 tão	intensificador
 vagarosamente	coloquialismo
 verdadeiramente	intensificador
 violentamente	coloquialismo
-

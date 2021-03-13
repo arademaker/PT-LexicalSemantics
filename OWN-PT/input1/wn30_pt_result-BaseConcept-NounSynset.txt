@@ -6,7 +6,7 @@ anunciar	anúncio
 cheirar	cheiro
 classificar	classificação
 contar	conta
-copiar	cópia/cópia
+copiar	cópia
 custar	custo
 decidir	decisão
 declarar	declaração
@@ -24,10 +24,10 @@ influir	influência
 instruir	instrução
 limitar	limitação
 morder	mordedura/mordida
-mudar	mudança/mudança
+mudar	mudança
 observar	observação
 ordenar	ordem
-organizar	organização/organização
+organizar	organização
 perfurar	perfuração
 planejar	plano
 presumir	presunção
@@ -43,4 +43,3 @@ tentar	tentativa
 transferir	transferência
 variar	variante
 visualizar	visualização
-

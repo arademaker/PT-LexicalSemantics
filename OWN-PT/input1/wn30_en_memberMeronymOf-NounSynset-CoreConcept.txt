@@ -32,7 +32,7 @@ companhia	elenco
 compromisso	ficante/acompanhante
 conselho	director/diretor
 corpo	divisão
-corte	júri/júri
+corte	júri
 coruja	bufo/corujas/corujão/estrige/mocho/strigiformes
 cosmo	galáxia/nebulosa
 criação	galáxia/nebulosa
@@ -44,7 +44,7 @@ eleitorado	constituintes/eleitor/eleitores/votante/votantes
 empresa	departamento/divisão
 enxame	insectos/insetos/hemípteros/insecto/inseto
 equus	égua/cavalo
-espécie	cepa/cepa/estirpe/estirpe/variante/variante
+espécie	cepa/estirpe/variante
 espécies	cepa/estirpe/variante
 familia	parente
 família	genitor/parente/progenitor/pai/criança/filho/mãe/menino
@@ -57,11 +57,11 @@ governo	legislatura/departamento/divisão
 grei	ovinos/vacas/bovinos/gado/ovelha/carneiro
 grupo	livro
 género	espécie/espécies/espécie
-gênero	espécie/espécie/espécies/espécies/espécie/espécie
+gênero	espécie/espécies/espécie
 homem	população/gente/pessoal/povo
 humanidade	população/gente/pessoal/povo
 jogo	livro
-juizado	júri/júri
+juizado	júri
 junta	director/diretor
 lei	policial/polícia/agente/guarda
 locomotivas	automotora/locomotiva/vagões/automóvel/trem/vagão/carro/comboio/máquina
@@ -69,7 +69,7 @@ lírio	açucena
 manada	ovinos/vacas/bovinos/gado/ovelha/carneiro
 mata	árvore
 matilha	cachorro/cão
-mitologia	mito/mito/lenda/lenda
+mitologia	mito/lenda
 mundo	galáxia/nebulosa/população/gente/pessoal/povo
 nação	província/estado
 nuvem	insectos/insetos/hemípteros/insecto/inseto
@@ -84,7 +84,7 @@ polícia	policial/agente/guarda
 população	alguém/cidadã/cidadão/indivíduo/alma/pessoa
 povo	alguém/cidadã/cidadão/indivíduo/alma/população/gente/pessoa/pessoal
 quercus	carvalho-vermelho/carvalho
-rebanho	ovinos/ovinos/vacas/bovinos/gado/ovelha/ovelha/carneiro/carneiro
+rebanho	ovinos/vacas/bovinos/gado/ovelha/carneiro
 regime	legislatura/departamento/divisão
 salmonidae	salmão
 seguidores	amante
@@ -98,9 +98,8 @@ terra	província/estado
 toupeira	topeira
 trem	automotora/locomotiva/vagões/automóvel/locomotivas/vagão/carro/comboio/máquina
 tribo	parente
-tribunal	júri/júri
+tribunal	júri
 tripulação	equipagem/equipe
 universidade	faculdade/instituto/escola
 universo	galáxia/nebulosa
 vacas	bezerro/terneiro/vitelo
-

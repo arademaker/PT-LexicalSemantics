@@ -9,11 +9,11 @@ aerotransportar	avionar/pilotar/voar
 afigurar	perceber/realizar/compreender/entender
 afundar	naufragar/abalroar/submergir
 agarrar	apanhar/capturar
-agitar	bater/bater
+agitar	bater
 aguardar	antecipar
 aguentar	sofrer
 ajudar	servir/dar
-andar	deslocar/mover/viajar/viajar/ir
+andar	deslocar/mover/viajar/ir
 antecipar	aguardar/esperar
 apanhar	agarrar/segurar
 aperfeiçoar	melhorar
@@ -26,7 +26,7 @@ auferir	conquistar/adquirir/fazer
 avionar	aerotransportar/voar
 bailar	dançar
 balear	tirotear/atirar
-bater	colidir/atingir/golpear/acertar/agitar/agitar
+bater	colidir/atingir/golpear/acertar/agitar
 cair	largar/soltar
 caminhar	deslocar/mover
 capturar	agarrar/segurar
@@ -37,10 +37,10 @@ cobrir	tampar/tratar
 colar	aderir/grudar/aderir
 colidir	golpear/acertar/bater
 combinar	harmonizar/compatibilizar/concordar
-comer	papar/papar
+comer	papar
 compatibilizar	corresponder/combinar/concordar
 comprar	obter/adquirir/atingir/incorrer/obter/receber
-compreender	afigurar/envisionar/figurar/visualizar/considerar/achar/ver/ver
+compreender	afigurar/envisionar/figurar/visualizar/considerar/achar/ver
 conceder	consentir/permitir/deixar
 concordar	corresponder/combinar/harmonizar/compatibilizar
 congelar	gelar
@@ -51,8 +51,8 @@ contrair	padecer/ter
 convocar	organizar
 corresponder	harmonizar/compatibilizar/concordar
 dançar	bailar
-dar	legar/consentir/permitir/deixar/deixar/entregar/passar/prover/causar/ajudar/transmitir/provocar/servir
-deixar	outorgar/permitir/conceder/transmitir/dar/dar
+dar	legar/consentir/permitir/deixar/entregar/passar/prover/causar/ajudar/transmitir/provocar/servir
+deixar	outorgar/permitir/conceder/transmitir/dar
 delinear	desenhar
 derrubar	virar
 descobrir	determinar/achar
@@ -65,7 +65,7 @@ dividir	romper/quebrar
 encontrar	re-adquirir/reconquistar/reganhar/recuperar/reganhar/achar
 encostar	roçar/raspar/varrer/atravessar
 endereçar	tratar
-entender	afigurar/envisionar/figurar/visualizar/considerar/achar/ver/ver
+entender	afigurar/envisionar/figurar/visualizar/considerar/achar/ver
 entregar	transmitir/dar
 envisionar	perceber/realizar/compreender/entender
 erguer	levantar
@@ -104,7 +104,7 @@ obter	comprar/adquirir/receber/incorrer/comprar/receber
 organizar	convocar/chamar
 outorgar	consentir/permitir/deixar
 padecer	contrair/sofrer/ter
-papar	comer/comer
+papar	comer
 passar	transmitir/dar
 perceber	afigurar/envisionar/figurar/visualizar/ver
 perguntar	indagar/questionar
@@ -138,7 +138,7 @@ soltar	cair
 submergir	naufragar/afundar
 suportar	sofrer
 tampar	cobrir
-ter	apresenta/apresenta/dispõe/dispõe/padecer/contrair/sofrer
+ter	apresenta/dispõe/padecer/contrair/sofrer
 tirotear	balear
 tolerar	sofrer
 topar	receber
@@ -149,8 +149,7 @@ traçar	desenhar
 varrer	vassourar/roçar/raspar/encostar/atravessar
 vassourar	roçar/raspar/varrer/atravessar
 ver	perceber/realizar/compreender/entender/compreender/entender
-viajar	deslocar/mover/ir/andar/andar
+viajar	deslocar/mover/ir/andar
 virar	derrubar
 visualizar	perceber/realizar/compreender/entender
 voar	aerotransportar/avionar/pilotar
-

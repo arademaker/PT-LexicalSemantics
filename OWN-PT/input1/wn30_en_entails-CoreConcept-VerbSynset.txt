@@ -71,7 +71,7 @@ instigar	decepcionar/desapontar/desiludir/animar/excitar/provocar
 ir	caminhar/andar
 levantar	levantar-se
 levantar-se	capotar/sonecar/dormir/dormitar/cochilar
-levar	vir/vir
+levar	vir
 levitar	ascender/subir
 licenciar	deferir/sancionar/aprovar
 lustrar	esfregar
@@ -113,7 +113,7 @@ tampar	inserir/introduzir
 telefonar	discar
 tirar	vir
 transportar	vir
-trazer	vir/vir
+trazer	vir
 tropeçar	caminhar/ir/andar
 ultrapassar	vencer/ganhar
 usar	vestir-se/arrumar-se/vestir
@@ -122,4 +122,3 @@ vencer	competir/concorrer/ganhar
 vender	entregar/dar
 ver	aperceber/aperceber-se/perceber/entender
 vestir	vestir-se/arrumar-se
-

@@ -3,10 +3,10 @@ adquirir	aquisição
 amar	amante
 apostar	aposta
 atrair	atração
-beber	bebida/bebida
+beber	bebida
 bombear	bomba
 cheirar	cheiro
-citar	citação/citação/citação/citação
+citar	citação
 cobrir	cobertura
 compensar	compensação
 comprar	compra
@@ -25,10 +25,9 @@ importar	importação
 ler	leitura
 mencionar	menção
 multiplicar	multiplicador
-necessitar	necessidade/necessidade
+necessitar	necessidade
 pagar	pagamento
 remunerar	remuneração
 significar	significação/significado
 subir	subida
 substituir	substituto
-

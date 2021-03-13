@@ -66,4 +66,3 @@ sábio	tolo
 sólido	líquido
 teórico	aplicado/empírico
 tolo	sábio
-

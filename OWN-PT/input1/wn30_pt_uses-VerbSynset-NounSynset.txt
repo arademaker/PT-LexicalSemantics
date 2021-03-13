@@ -3,7 +3,7 @@ abrigar	abrigo
 acentuar	acentuação
 alimentar	alimento/alimentação/alimento
 anotar	anotação
-aprovar	aprovação/aprovação
+aprovar	aprovação
 armar	arma
 augurar	augúrio
 brilhar	brilho
@@ -19,17 +19,17 @@ encontrar	encontro
 entreter	entretenimento
 equipar	equipamento
 estruturar	estrutura
-fornecer	fornecimento/fornecimento/fornecimento/fornecimento/fornecimento
+fornecer	fornecimento
 identificar	identificação
-ilustrar	ilustração/ilustração/ilustração/ilustração
-informar	informação/informação/informação
-interpretar	interpretação/interpretação/interpretação/interpretação
+ilustrar	ilustração
+informar	informação
+interpretar	interpretação
 listar	lista
-manter	manutenção/manutenção
+manter	manutenção
 multar	multa
 nomear	nome
 notificar	notificação
-numerar	número/número/número/número
+numerar	número
 nutrir	nutrição
 patentear	patente
 perdoar	perdão
@@ -37,11 +37,10 @@ picar	picada
 pintar	pintura
 prognosticar	prognóstico
 provar	prova
-prover	provisão/provisão
+prover	provisão
 resumir	resumo
 sancionar	sanção
 taxar	taxa
 temperar	tempero
-testemunhar	testemunho/testemunho/testemunho/testemunha/testemunha/testemunha
-vestir	vestuário/vestuário/vestuário/vestuário/vestuário/vestuário
-
+testemunhar	testemunho/testemunha
+vestir	vestuário

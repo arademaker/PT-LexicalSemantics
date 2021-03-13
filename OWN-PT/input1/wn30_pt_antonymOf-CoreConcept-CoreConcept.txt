@@ -33,4 +33,3 @@ sábio	tolo
 sólido	líquido
 tolo	sábio
 tragédia	comédia
-

@@ -8,7 +8,7 @@ baile	dançar
 barco	capialço
 besta	corpo/microorganismo/microrganismo
 bicho	corpo/microorganismo/microrganismo
-biologia	espécie/ontogenia/ontogénese/célula/espécies/crescimento/espécie/cultura/filo/filo/mutante/mutantes/mutação/procriar/reproduzir/gerar/género/família/classe
+biologia	espécie/ontogenia/ontogénese/célula/espécies/crescimento/espécie/cultura/filo/mutante/mutantes/mutação/procriar/reproduzir/gerar/género/família/classe
 cinema	filmar
 ciência	matematica/matemática
 colectas	encargo/imposto/taxa
@@ -25,11 +25,11 @@ dramaturgia	assento/cadeira/lugar/teatro/casa
 embarcação	capialço
 empresa	astucidade/gerenciamento/sagacidade/astúcia/capitalista/gestão/estabelecimento/negócio/administração
 esporte	passear/caminhar/esquiar/chutar/jogo
-exército	tanques/campanha/espião/tanque/manobra/combate/combate/operação/batalha/batalha/ataque/luta/guerra/defesa/manobra/militar/proteção/oficial/companhia/corpo/ordem
+exército	tanques/campanha/espião/tanque/manobra/combate/operação/batalha/ataque/luta/guerra/defesa/manobra/militar/proteção/oficial/companhia/corpo/ordem
 filme	filmar
 flora	vegetação/microorganismo/microrganismo/comensalismo/parasita
 fé	consagração/ortodoxia/perseguição
-física	molécula/átomo/magnete/íman/colisão/solidificar/ímã/difusão/gelar/onda/energia/luz/congelar/força
+física	molécula/átomo/magnete/íman/colisão/solidificar/ímã/difusão/gelar/onda/luz/energia/congelar/força
 humano	corpo
 idioma	linguagem/discurso/língua/estilo
 imposto	encargo/taxa
@@ -45,7 +45,7 @@ manufatura	indústria
 matematica	função/assimetria/cáculo/computar/simetria/calcular/conjunto/operação/plano
 matemática	função/assimetria/cáculo/computar/simetria/calcular/conjunto/operação/plano
 mercantilismo	empenhar/comprar/vender/obter/adquirir/atingir/comerciar/tramitar/transaccionar/transacionar
-música	musico/músico/músico/cantar/tocar/tacto/linguagem/seção/discurso/baixar/língua/estilo/parte/cair
+música	musico/músico/cantar/tocar/tacto/linguagem/seção/discurso/baixar/língua/estilo/parte/cair
 narcótico	fornecedor/conexão
 navio	capialço
 navios	capialço
@@ -68,5 +68,4 @@ taxação	encargo/imposto/taxa
 teatro	assento/cadeira/lugar/casa
 tributo	encargo/imposto/taxa
 vegetal	flora/vegetação/microorganismo/microrganismo/comensalismo/parasita
-vertebrado	sangue/sangue
-
+vertebrado	sangue

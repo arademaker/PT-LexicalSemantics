@@ -42,4 +42,3 @@ sentar-se	sentar
 submergir	naufragar/afundar
 verter	manar/fluir/correr
 viajar	caminhar/ir/andar
-

@@ -48,7 +48,7 @@ corresponder	harmonizar/compatibilizar/concordar
 criar	fazer
 dançar	bailar
 dar	ajudar/transmitir/servir
-deixar	legar/entregar/passar/dar/outorgar/permitir/conceder/transmitir/dar/dar
+deixar	legar/entregar/passar/dar/outorgar/permitir/conceder/transmitir/dar
 desabar	desistir/abandonar
 descobrir	determinar/achar
 desenhar	traçar/delinear
@@ -87,10 +87,10 @@ malhar	exercitar
 modelar	trabalhar
 moldar	trabalhar
 morrer	perecer/falecer/expirar
-mudar	converter/substituir/trocar/trocar
+mudar	converter/substituir/trocar
 naufragar	abalroar/submergir/afundar
 obter	incorrer/comprar/receber
-papar	comer/comer
+papar	comer
 passar	transmitir/dar
 pedir	solicitar/requerer
 perceber	afigurar/envisionar/figurar/visualizar/ver
@@ -135,4 +135,3 @@ verificar	checar/conferir
 vestir	vestir-se/arrumar-se
 viajar	deslocar/mover
 virar	revolver/revirar/rodar/tornar/derrubar/mudar
-

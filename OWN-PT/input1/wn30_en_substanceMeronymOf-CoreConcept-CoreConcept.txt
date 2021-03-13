@@ -1,7 +1,7 @@
 ar	oxigénio/oxigênio
 aço	ferro
 betão	areia
-carne	proteina/proteína/proteínas/proteínas
+carne	proteína
 carvão	carbono
 cerâmica	argila/greda
 chifre	osso
@@ -11,13 +11,13 @@ formigão	areia
 geleira	gelo
 gelo	água
 glaciar	gelo
-glaciares	gelo/gelo
+glaciares	gelo
 hulha	carbono
-leite	proteina/proteína/proteínas/proteínas
+leite	proteína
 lágrima	água
 massa	farinha
 olaria	argila/greda
-ovo	proteina/proteína/proteínas/proteínas
+ovo	proteína
 pasta	farinha
 perspiração	água
 praia	areia
@@ -28,7 +28,6 @@ tijolo	argila/greda
 transpiração	água
 trave	madeira
 vento	ar
-vianda	proteina/proteína/proteínas/proteínas
+vianda	proteína
 viga	madeira
 água	oxigénio/oxigênio
-

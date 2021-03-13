@@ -1,7 +1,7 @@
 algodao	algodão
-amino-ácido	proteina/proteína/proteínas/proteínas
-aminoácido	proteina/proteína/proteínas/proteínas
-aminoácidos	proteina/proteina/proteína/proteína/proteínas/proteínas/proteínas/proteínas
+amino-ácido	proteína
+aminoácido	proteína
+aminoácidos	proteína
 ar	vento
 areia	formigão/betão/praia/concreto
 argila	olaria/tijolo/cerâmica
@@ -15,20 +15,20 @@ cafeina	chá/café
 cafeína	chá/café
 carbono	hulha/carvão
 carvalho	carvalho-vermelho
-celulose	thread/thread/fibras/fibras/fibra/fibra/papel/papel
-cimento	formigão/formigão/betão/betão/concreto/concreto
+celulose	thread/fibras/fibra/papel
+cimento	formigão/betão/concreto
 coalhada	queijo
 colágeno	osso
 cripton	ar
 criptónio	ar
 criptônio	ar
 cré	giz/griz
-crípton	ar/ar
+crípton	ar
 cânhamo	toa/lona/corda/cabo
 farinha	pasta/pão/massa
 ferro	aço
 fisostigmina	medicamento/remédio
-gelo	geleira/glaciares/glaciares/glaciar
+gelo	geleira/glaciares/glaciar
 greda	olaria/tijolo/cerâmica
 hidrogénio	água
 hidrogênio	água
@@ -44,7 +44,7 @@ neónio	ar
 neônio	ar
 nitrogénio	ar
 nitrogênio	ar
-néon	ar/ar
+néon	ar
 osso	chifre/corno
 oxigénio	água/ar
 oxigênio	água/ar
@@ -53,13 +53,11 @@ pigmento	tinta/pintura/cor
 pigmentos	pigmento/tinta/pintura/cor
 piperina	pimenta-do-reino/pimenta-preta
 progesterona	pílula
-proteina	vianda/ovo/leite/carne
 proteína	vianda/ovo/leite/carne
-proteínas	vianda/vianda/ovo/ovo/leite/leite/carne/carne
 queratina	plumagem/pluma/cabelo/pena
 silicone	areia/argila/greda
 silício	areia/argila/greda
-soro	sangue/sangue
+soro	sangue
 sílica	cristal
 triacilglicerol	lípidos/gordura
 urdume	têxteis/pano/tecido/fazenda
@@ -70,5 +68,4 @@ xenón	ar
 xenónio	ar
 xenônio	ar
 água	perspiração/sudorese/gelo/lágrima/suor/transpiração
-árgon	ar/ar
-
+árgon	ar

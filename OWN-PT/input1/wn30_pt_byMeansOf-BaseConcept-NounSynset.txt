@@ -3,9 +3,9 @@ adicionar	adição
 administrar	administração
 ajudar	ajuda
 alarmar	alarme
-ameaçar	ameaça/ameaça
+ameaçar	ameaça
 assistir	assistência
-aumentar	aumento/aumento/aumento/aumento
+aumentar	aumento
 beneficiar	benefício
 confessar	confissão
 controlar	controlador
@@ -18,7 +18,7 @@ esperar	esperança
 expressar	expressão
 finalizar	fim/final
 fortificar	fortificação
-forçar	força/força
+forçar	força
 gaguejar	gagueira
 gerenciar	gerenciamento
 gerir	gestão
@@ -26,17 +26,16 @@ governar	governo
 imaginar	imaginação
 impedir	impedimento
 indicar	indicação
-influenciar	influência/influência
-influir	influência/influência
-limitar	limitação/limitação
+influenciar	influência
+influir	influência
+limitar	limitação
 magoar	mágoa
 manter	manutenção
 ofender	ofensa
 pagar	pagamento
 refutar	refutação
 responder	resposta
-restringir	restrição/restrição
+restringir	restrição
 tentar	tentação
 tolerar	tolerância
 ver	visão
-

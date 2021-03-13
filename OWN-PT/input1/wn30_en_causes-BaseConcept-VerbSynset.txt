@@ -28,7 +28,7 @@ cerrar	fechar
 coagir	agir/atuar/fazer
 colocar	jazer
 comover	sentir/experimentar
-compelir	agir/agir/atuar/atuar/fazer/fazer
+compelir	agir/atuar/fazer
 completar	encher
 concluir	cessar/encerrar/finalizar/acabar/terminar/parar
 conduzir	agir/atuar/fazer
@@ -67,7 +67,7 @@ finalizar	cessar/encerrar/acabar/terminar/parar
 fixar	aferrolhar
 fortalecer	consolidar
 fortificar	consolidar
-forçar	agir/agir/atuar/atuar/fazer/fazer
+forçar	agir/atuar/fazer
 gelar	congelar
 impressionar	sentir/experimentar
 instruir	aprender/adquirir
@@ -84,7 +84,7 @@ modificar	alterar/mudar
 mostrar	enxergar/olhar/ver
 mover	deslocar/mexer
 mudar	alterar
-obrigar	agir/agir/atuar/atuar/fazer/fazer
+obrigar	agir/atuar/fazer
 ocasionar	ocorrer/suceder/acontecer/passar
 organizar	encontrar/reunir
 parecer	sentir/experimentar
@@ -105,9 +105,8 @@ separar	partir/dividir
 soar	ressoar/fazer
 submergir	naufragar/afundar
 terminar	cessar/encerrar/finalizar/acabar/parar
-unir	grudar/juntar/juntar
+unir	grudar/juntar
 verter	manar/fluir/correr
 viajar	caminhar/ir/andar
 virar	derrubar
 zangar	enraivecer
-

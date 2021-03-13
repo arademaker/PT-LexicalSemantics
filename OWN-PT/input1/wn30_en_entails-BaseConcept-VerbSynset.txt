@@ -124,4 +124,3 @@ trapacear	iludir/lograr/enganar
 vender	entregar/dar
 ver	enxergar/olhar/mirar/observar/olhar
 viver	existir/ser
-

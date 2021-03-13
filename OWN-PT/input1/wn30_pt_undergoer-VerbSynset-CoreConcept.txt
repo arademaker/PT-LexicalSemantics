@@ -9,11 +9,11 @@ beber	bebida
 bombear	bomba
 caçoar	caçoada
 cheirar	cheiro
-citar	citação/citação/citação/citação/citação/citação
+citar	citação
 colher	colheita
 comissionar	comissão
 comunicar	comunicação
-considerar	consideração/consideração
+considerar	consideração
 convidar	convidado
 decretar	decreto
 desculpar	desculpa
@@ -26,16 +26,15 @@ ganhar	ganho
 garantir	garantia
 hipotecar	hipoteca
 importar	importação
-influenciar	influência/influência
-influir	influência/influência
+influenciar	influência
+influir	influência
 lacrimejar	lágrima
 mencionar	menção
 mentir	mentira
 necessitar	necessidade
-numerar	número/número
-roubar	roubo/roubo
-saquear	saque/saque
-significar	significação/significação/significação/significado/significado/significado
+numerar	número
+roubar	roubo
+saquear	saque
+significar	significação/significado
 suar	suor
 transpirar	transpiração
-

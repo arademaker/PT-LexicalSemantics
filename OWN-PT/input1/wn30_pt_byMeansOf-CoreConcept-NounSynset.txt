@@ -6,15 +6,15 @@ anunciar	anúncio
 aprimorar	aprimoramento
 aprovar	aprovação
 assistir	assistência
-aumentar	aumento/aumento
+aumentar	aumento
 beneficiar	benefício
 citar	citação
-confirmar	confirmação/confirmação
+confirmar	confirmação
 controlar	controlador
 disfarçar	disfarce
 entrar	entrada
 filmar	filme
-forçar	força/força
+forçar	força
 garantir	garantia
 governar	governo
 hesitar	hesitação
@@ -32,11 +32,10 @@ multiplicar	multiplicação
 ofender	ofensa
 proibir	proibição
 provocar	provocação
-recomendar	recomendação/recomendação
+recomendar	recomendação
 renunciar	renúncia
 responder	resposta
 restringir	restrição
 simular	simulador
 tolerar	tolerância
 ventilar	ventilador
-

@@ -19,7 +19,7 @@ açucena	lírio
 batata	solanum
 bezerro	vacas/bovinos/gado
 bicha	tabela
-bode	capra/capra
+bode	capra
 bovinos	grei/manada/rebanho/gado/bos
 bufo	coruja/strigiformes
 cabra	capra
@@ -27,7 +27,7 @@ cabrito	capra
 cachorro	matilha/canis
 caracter	alfabeto
 caractér	alfabeto
-carneiro	grei/manada/rebanho/rebanho/gado/ovis
+carneiro	grei/manada/rebanho/gado/ovis
 carro	caminhos-de-ferro/locomotivas/trem/comboio
 carvalho	quercus
 carvalho-vermelho	carvalho/quercus
@@ -63,8 +63,8 @@ equipe	tripulação
 escola	universidade
 esposa	casal/casamento
 esposo	casal/casamento
-espécie	gênero/gênero/gênero/gênero/género/género
-espécies	gênero/gênero/género
+espécie	gênero/género
+espécies	gênero/género
 estado	país/nação/terra
 estirpe	espécie/espécies/espécie
 estrige	coruja/strigiformes
@@ -86,9 +86,9 @@ insectos	enxame/nuvem
 inseto	enxame/nuvem
 insetos	enxame/nuvem
 instituto	universidade
-júri	juizado/juizado/tribunal/tribunal/corte/corte
+júri	juizado/tribunal/corte
 legislatura	autoridades/regime/governo
-lenda	mitologia/mitologia
+lenda	mitologia
 leopardo	panthera
 letra	alfabeto
 leão	panthera
@@ -99,15 +99,15 @@ locomotiva	caminhos-de-ferro/locomotivas/trem/comboio
 locomotivas	caminhos-de-ferro/trem/comboio
 marido	casal/casamento
 menino	família
-mito	mitologia/mitologia
+mito	mitologia
 mocho	coruja/strigiformes
 máquina	caminhos-de-ferro/locomotivas/trem/comboio
 mãe	família
 nebulosa	cosmo/universo/mundo/criação
 noiva	boda/casamento
 onça	panthera
-ovelha	grei/manada/rebanho/rebanho/gado/ovis
-ovinos	grei/manada/rebanho/rebanho/gado/ovis
+ovelha	grei/manada/rebanho/gado/ovis
+ovinos	grei/manada/rebanho/gado/ovis
 pai	família
 palma	arecaceae/palmeira
 palmeira	arecaceae
@@ -153,9 +153,8 @@ vespa	apoidea
 vitelo	vacas/bovinos/gado
 votante	eleitorado
 votantes	eleitorado
-águia	accipitridae/accipitridae
+águia	accipitridae
 águias	accipitridae
 árvore	bosque/mata/floresta
 égua	equus
 ônibus	frota
-
